@@ -1,0 +1,15 @@
+{
+  "state": "North Dakota",
+  "slug": "northdakota",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/northdakota",
+  "title": "North Dakota SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "ND SNAP Food Restriction Waiver Approval(2.71 MB)",
+      "filename": "nd-snap-foodRestrictionWaiverApproval.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/nd-snap-foodRestrictionWaiverApproval.pdf"
+    }
+  ],
+  "target_implementation_date": "09/01/26",
+  "summary_of_request": "Restricts purchase of soft drinks, energy drinks, and candy."
+}

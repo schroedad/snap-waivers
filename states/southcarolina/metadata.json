@@ -1,0 +1,15 @@
+{
+  "state": "South Carolina",
+  "slug": "southcarolina",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/southcarolina",
+  "title": "South Carolina SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "SC SNAP Food Restriction Waiver Approval(4.68 MB)",
+      "filename": "snap-foodrestriction-WaiverApprovalSC.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-WaiverApprovalSC.pdf"
+    }
+  ],
+  "target_implementation_date": "08/31/26",
+  "summary_of_request": "Restricts purchase of candy, energy drinks, soft drinks, and sweetened beverages."
+}

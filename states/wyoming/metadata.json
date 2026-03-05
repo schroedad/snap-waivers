@@ -1,0 +1,20 @@
+{
+  "state": "Wyoming",
+  "slug": "wyoming",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/wyoming",
+  "title": "Wyoming SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "WY SNAP Food Restriction Waiver Approval(3.27 MB)",
+      "filename": "wy-snapfoodrestrictionwaiver-approval.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/wy-snapfoodrestrictionwaiver-approval.pdf"
+    },
+    {
+      "title": "WY SNAP Food Restriction Waiver Request(317.27 KB)",
+      "filename": "wy-snapfoodrestrictionwaiver-request.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/wy-snapfoodrestrictionwaiver-request.pdf"
+    }
+  ],
+  "target_implementation_date": "02/01/27",
+  "summary_of_request": "Restricts sweetened, carbonated beverages."
+}

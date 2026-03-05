@@ -1,0 +1,30 @@
+{
+  "state": "Idaho",
+  "slug": "idaho",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/idaho",
+  "title": "Idaho SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "ID SNAP Food Restriction Waiver Modification(135.73 KB)",
+      "filename": "snap-foodrestriction-waiverMod-ID.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverMod-ID.pdf"
+    },
+    {
+      "title": "ID SNAP Food Restriction Waiver Approval(4.22 MB)",
+      "filename": "snap-foodrestriction-waiverApproval-idaho.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-idaho.pdf"
+    },
+    {
+      "title": "ID SNAP Food Restriction Waiver Request(5.19 MB)",
+      "filename": "snap-foodrestriction-waiverRequest-idaho.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-idaho.pdf"
+    },
+    {
+      "title": "ID Retailer Notice(248.91 KB)",
+      "filename": "snap-retailernotice-foodrestrictionwaiver-idaho.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-retailernotice-foodrestrictionwaiver-idaho.pdf"
+    }
+  ],
+  "target_implementation_date": "02/15/26",
+  "summary_of_request": "Restricts purchase of soda and candy."
+}

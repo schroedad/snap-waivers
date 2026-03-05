@@ -1,0 +1,25 @@
+{
+  "state": "Louisiana",
+  "slug": "louisiana",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/louisiana",
+  "title": "Louisiana SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "LA SNAP Food Restriction Waiver Modification(166.82 KB)",
+      "filename": "snap-foodrestriction-waiverMod-LA.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverMod-LA.pdf"
+    },
+    {
+      "title": "LA SNAP Food Restriction Waiver Approval(305.15 KB)",
+      "filename": "snap-foodrestrictionWaiverApproval-louisiana.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-louisiana.pdf"
+    },
+    {
+      "title": "LA Retailer Notice(220.32 KB)",
+      "filename": "snap-retailernotice-foodrestrictionwaiver-louisiana.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-retailernotice-foodrestrictionwaiver-louisiana.pdf"
+    }
+  ],
+  "target_implementation_date": "02/18/26",
+  "summary_of_request": "Restricts purchase of soft drinks, energy drinks, and candy."
+}

@@ -1,0 +1,487 @@
+[
+  {
+    "state": "Arkansas",
+    "slug": "arkansas",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/arkansas",
+    "title": "Arkansas SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "AR SNAP Food Restriction Waiver Approval(3.99 MB)",
+        "filename": "snap-foodrestriction-waiverApproval-arkansas.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-arkansas.pdf"
+      },
+      {
+        "title": "AR SNAP Food Restriction Waiver Request(250.10 KB)",
+        "filename": "snap-foodrestriction-waiverRequest-arkansas.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-arkansas.pdf"
+      }
+    ],
+    "target_implementation_date": "07/01/26",
+    "summary_of_request": "Restricts purchase of soda, fruit and vegetable drinks with less than 50% natural juice, unhealthy drinks, and candy."
+  },
+  {
+    "state": "Colorado",
+    "slug": "colorado",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/colorado",
+    "title": "Colorado SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "CO SNAP Food Restriction Waiver Modification(132.31 KB)",
+        "filename": "co-snap-foodRestrictionWaiverMod.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/co-snap-foodRestrictionWaiverMod.pdf"
+      },
+      {
+        "title": "CO SNAP Food Restriction Waiver Approval(713.07 KB)",
+        "filename": "snap-foodrestrictionWaiverApproval-colorado.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-colorado.pdf"
+      },
+      {
+        "title": "CO SNAP Food Restriction Waiver Request(286.51 KB)",
+        "filename": "snap-FoodRestrictionWaiverRequest-CO.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-FoodRestrictionWaiverRequest-CO.pdf"
+      }
+    ],
+    "target_implementation_date": "04/30/26",
+    "summary_of_request": "Restricts purchase of soft drinks."
+  },
+  {
+    "state": "Florida",
+    "slug": "florida",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/florida",
+    "title": "Florida SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "FL SNAP Food Restriction Waiver Modification(168.87 KB)",
+        "filename": "fl-snap-foodRestrictionWaiverMod.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/fl-snap-foodRestrictionWaiverMod.pdf"
+      },
+      {
+        "title": "FL SNAP Food Restriction Waiver Approval(847.28 KB)",
+        "filename": "snap-foodrestrictionWaiverApproval-florida.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-florida.pdf"
+      },
+      {
+        "title": "FL SNAP Food Restriction Waiver Request(445.08 KB)",
+        "filename": "snap-foodrestrictionWaiverRequest-florida.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverRequest-florida.pdf"
+      }
+    ],
+    "target_implementation_date": "04/20/26",
+    "summary_of_request": "Restricts purchase of soda, energy drinks, candy, and prepared desserts."
+  },
+  {
+    "state": "Hawaii",
+    "slug": "hawaii",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/hawaii",
+    "title": "Hawaii SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "HI SNAP Food Restriction Waiver Approval(3.55 MB)",
+        "filename": "snap-foodrestriction-waiverApproval-Hawaii.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-Hawaii.pdf"
+      }
+    ],
+    "target_implementation_date": "08/01/26",
+    "summary_of_request": "Restricts purchase of soft drinks."
+  },
+  {
+    "state": "Idaho",
+    "slug": "idaho",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/idaho",
+    "title": "Idaho SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "ID SNAP Food Restriction Waiver Modification(135.73 KB)",
+        "filename": "snap-foodrestriction-waiverMod-ID.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverMod-ID.pdf"
+      },
+      {
+        "title": "ID SNAP Food Restriction Waiver Approval(4.22 MB)",
+        "filename": "snap-foodrestriction-waiverApproval-idaho.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-idaho.pdf"
+      },
+      {
+        "title": "ID SNAP Food Restriction Waiver Request(5.19 MB)",
+        "filename": "snap-foodrestriction-waiverRequest-idaho.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-idaho.pdf"
+      },
+      {
+        "title": "ID Retailer Notice(248.91 KB)",
+        "filename": "snap-retailernotice-foodrestrictionwaiver-idaho.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-retailernotice-foodrestrictionwaiver-idaho.pdf"
+      }
+    ],
+    "target_implementation_date": "02/15/26",
+    "summary_of_request": "Restricts purchase of soda and candy."
+  },
+  {
+    "state": "Indiana",
+    "slug": "indiana",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/indiana",
+    "title": "Indiana SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "IN SNAP Food Restriction Waiver Approval(230.05 KB)",
+        "filename": "snap-foodrestriction-waiverApproval-indiana-061225.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-indiana-061225.pdf"
+      },
+      {
+        "title": "IN SNAP Food Restriction Waiver Request(212.44 KB)",
+        "filename": "snap-foodrestriction-waiverRequest-indiana.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-indiana.pdf"
+      },
+      {
+        "title": "IN Retailer Notice(182.60 KB)",
+        "filename": "snap-foodrestrictionwaiver-retailernotice-indiana.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-retailernotice-indiana.pdf"
+      }
+    ],
+    "target_implementation_date": "01/01/26",
+    "summary_of_request": "Restricts purchase of soft drinks and candy."
+  },
+  {
+    "state": "Iowa",
+    "slug": "iowa",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/iowa",
+    "title": "Iowa SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "IA SNAP Food Restriction Waiver Modification(279.23 KB)",
+        "filename": "snap-foodrestriction-waiverMod-IA.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverMod-IA.pdf"
+      },
+      {
+        "title": "IA SNAP Food Restriction Waiver Approval(4.05 MB)",
+        "filename": "snap-foodrestriction-waiverApproval-Iowa.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-Iowa.pdf"
+      },
+      {
+        "title": "IA SNAP Food Restriction Waiver Request(292.25 KB)",
+        "filename": "snap-foodrestriction-waiverRequest-iowa.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-iowa.pdf"
+      },
+      {
+        "title": "IA Retailer Notice(173.92 KB)",
+        "filename": "snap-foodrestrictionwaiver-retailernotice-iowa.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-retailernotice-iowa.pdf"
+      }
+    ],
+    "target_implementation_date": "01/01/26",
+    "summary_of_request": "Restricts all taxable food items as defined by the Iowa Department of Revenue except food producing plants and seeds for food producing plants."
+  },
+  {
+    "state": "Kansas",
+    "slug": "kansas",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/kansas",
+    "title": "Kansas SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "KS SNAP Food Restriction Waiver Approval(3.56 MB)",
+        "filename": "ks-snapfoodrestrictionwaiver-approval.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/ks-snapfoodrestrictionwaiver-approval.pdf"
+      },
+      {
+        "title": "KS SNAP Food Restriction Waiver Request(418.85 KB)",
+        "filename": "ks-snapfoodrestrictionwaiver-request.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/ks-snapfoodrestrictionwaiver-request.pdf"
+      }
+    ],
+    "target_implementation_date": "02/15/27",
+    "summary_of_request": "Restricts candy and soft drinks."
+  },
+  {
+    "state": "Louisiana",
+    "slug": "louisiana",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/louisiana",
+    "title": "Louisiana SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "LA SNAP Food Restriction Waiver Modification(166.82 KB)",
+        "filename": "snap-foodrestriction-waiverMod-LA.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverMod-LA.pdf"
+      },
+      {
+        "title": "LA SNAP Food Restriction Waiver Approval(305.15 KB)",
+        "filename": "snap-foodrestrictionWaiverApproval-louisiana.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-louisiana.pdf"
+      },
+      {
+        "title": "LA Retailer Notice(220.32 KB)",
+        "filename": "snap-retailernotice-foodrestrictionwaiver-louisiana.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-retailernotice-foodrestrictionwaiver-louisiana.pdf"
+      }
+    ],
+    "target_implementation_date": "02/18/26",
+    "summary_of_request": "Restricts purchase of soft drinks, energy drinks, and candy."
+  },
+  {
+    "state": "Missouri",
+    "slug": "missouri",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/missouri",
+    "title": "Missouri SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "MO SNAP Food Restriction Waiver Approval(4.26 MB)",
+        "filename": "snap-foodrestriction-waiverApproval-Missouri.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-Missouri.pdf"
+      }
+    ],
+    "target_implementation_date": "10/01/26",
+    "summary_of_request": "Restricts purchase of candy, prepared desserts, and certain unhealthy beverages."
+  },
+  {
+    "state": "Nebraska",
+    "slug": "nebraska",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/nebraska",
+    "title": "Nebraska SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "NE SNAP Food Restriction Waiver Approval(4.64 MB)",
+        "filename": "snap-foodrestriction-waiverApproval-nebraska.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-nebraska.pdf"
+      },
+      {
+        "title": "NE SNAP Food Restriction Waiver Request(67.35 KB)",
+        "filename": "snap-foodrestriction-waiverRequest-nebraska.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-nebraska.pdf"
+      },
+      {
+        "title": "NE Retailer Notice(186.65 KB)",
+        "filename": "snap-foodrestrictionwaiver-retailernotice-nebraska.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-retailernotice-nebraska.pdf"
+      }
+    ],
+    "target_implementation_date": "01/01/26",
+    "summary_of_request": "Restricts purchase of soda and energy drinks."
+  },
+  {
+    "state": "Nevada",
+    "slug": "nevada",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/nevada",
+    "title": "Nevada SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "NV SNAP Food Restriction Waiver Approval(4.09 MB)",
+        "filename": "nv-snapfoodrestrictionwaiver-approval.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/nv-snapfoodrestrictionwaiver-approval.pdf"
+      },
+      {
+        "title": "NV SNAP Food Restriction Waiver Request(384.40 KB)",
+        "filename": "nv-snapfoodrestrictionwaiver-request.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/nv-snapfoodrestrictionwaiver-request.pdf"
+      }
+    ],
+    "target_implementation_date": "02/01/28",
+    "summary_of_request": "Restricts candy and sugar sweetened beverages."
+  },
+  {
+    "state": "North Dakota",
+    "slug": "northdakota",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/northdakota",
+    "title": "North Dakota SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "ND SNAP Food Restriction Waiver Approval(2.71 MB)",
+        "filename": "nd-snap-foodRestrictionWaiverApproval.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/nd-snap-foodRestrictionWaiverApproval.pdf"
+      }
+    ],
+    "target_implementation_date": "09/01/26",
+    "summary_of_request": "Restricts purchase of soft drinks, energy drinks, and candy."
+  },
+  {
+    "state": "Ohio",
+    "slug": "ohio",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/ohio",
+    "title": "Ohio SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "OH SNAP Food Restriction Waiver Approval(3.31 MB)",
+        "filename": "oh-snap-foodrestrictionwaiver-approval.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/oh-snap-foodrestrictionwaiver-approval.pdf"
+      },
+      {
+        "title": "OH SNAP Food Restriction Waiver Request(448.75 KB)",
+        "filename": "oh-snapfoodrestrictionwaiver-request.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/oh-snapfoodrestrictionwaiver-request.pdf"
+      }
+    ],
+    "target_implementation_date": "10/01/26",
+    "summary_of_request": "Restricts sugar-sweetened beverages."
+  },
+  {
+    "state": "Oklahoma",
+    "slug": "oklahoma",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/oklahoma",
+    "title": "Oklahoma SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "OK SNAP Food Restriction Waiver Modification(201.42 KB)",
+        "filename": "snap-foodrestriction-waiverMod-OK.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverMod-OK.pdf"
+      },
+      {
+        "title": "OK SNAP Food Restriction Waiver Approval(854.05 KB)",
+        "filename": "snap-foodrestrictionWaiverApproval-oklahoma.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-oklahoma.pdf"
+      },
+      {
+        "title": "OK SNAP Food Restriction Waiver Request(347.25 KB)",
+        "filename": "snap-foodrestrictionRequest-oklahoma.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionRequest-oklahoma.pdf"
+      },
+      {
+        "title": "OK Retailer Notice(178.29 KB)",
+        "filename": "snap-retailernotice-foodrestrictionwaiver-oklahoma.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-retailernotice-foodrestrictionwaiver-oklahoma.pdf"
+      }
+    ],
+    "target_implementation_date": "02/15/26",
+    "summary_of_request": "Restricts purchase of soft drinks and candy."
+  },
+  {
+    "state": "South Carolina",
+    "slug": "southcarolina",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/southcarolina",
+    "title": "South Carolina SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "SC SNAP Food Restriction Waiver Approval(4.68 MB)",
+        "filename": "snap-foodrestriction-WaiverApprovalSC.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-WaiverApprovalSC.pdf"
+      }
+    ],
+    "target_implementation_date": "08/31/26",
+    "summary_of_request": "Restricts purchase of candy, energy drinks, soft drinks, and sweetened beverages."
+  },
+  {
+    "state": "Tennessee",
+    "slug": "tennessee",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/tennessee",
+    "title": "Tennessee SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "TN SNAP Food Restriction Waiver Approval(3.85 MB)",
+        "filename": "snap-foodrestriction-waiverApproval-Tennessee.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-Tennessee.pdf"
+      }
+    ],
+    "target_implementation_date": "07/31/26",
+    "summary_of_request": "Restricts purchase of processed foods and beverages such as soda, energy drinks, and candy."
+  },
+  {
+    "state": "Texas",
+    "slug": "texas",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/texas",
+    "title": "Texas SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "TX SNAP Food Restriction Waiver Modification(98.19 KB)",
+        "filename": "tx-snapFoodrestrictionWaiverModApproval.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/tx-snapFoodrestrictionWaiverModApproval.pdf"
+      },
+      {
+        "title": "TX SNAP Food Restriction Waiver Approval(729.68 KB)",
+        "filename": "snap-foodrestrictionWaiverApproval-texas.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-texas.pdf"
+      },
+      {
+        "title": "TX SNAP Food Restriction Waiver Request(396.06 KB)",
+        "filename": "snap-foodrestrictionWaiverRequest-texas.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverRequest-texas.pdf"
+      }
+    ],
+    "target_implementation_date": "04/01/26",
+    "summary_of_request": "Restricts purchase of sweetened drinks and candy."
+  },
+  {
+    "state": "Utah",
+    "slug": "utah",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/utah",
+    "title": "Utah SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "UT SNAP Food Restriction Waiver Approval(4.37 MB)",
+        "filename": "snap-foodrestriction-waiverApproval-utah.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-utah.pdf"
+      },
+      {
+        "title": "UT SNAP Food Restriction Waiver Request(81.17 KB)",
+        "filename": "snap-foodrestriction-waiverRequest-utah.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-utah.pdf"
+      },
+      {
+        "title": "UT Retailer Notice(173.78 KB)",
+        "filename": "snap-foodrestrictionwaiver-retailernotice-utah.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-retailernotice-utah.pdf"
+      }
+    ],
+    "target_implementation_date": "01/01/26",
+    "summary_of_request": "Restricts purchase of soft drinks."
+  },
+  {
+    "state": "Virginia",
+    "slug": "virginia",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/virginia",
+    "title": "Virginia SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "VA SNAP Food Restriction Waiver Modification(134.04 KB)",
+        "filename": "va-snapFoodrestrictionWaiverModApproval.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/va-snapFoodrestrictionWaiverModApproval.pdf"
+      },
+      {
+        "title": "VA SNAP Food Restriction Waiver Approval(3.66 MB)",
+        "filename": "snap-foodrestrictionwaiver-virginia.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-virginia.pdf"
+      }
+    ],
+    "target_implementation_date": "10/01/26",
+    "summary_of_request": "Restricts purchase of \u201csweetened beverages.\u201d"
+  },
+  {
+    "state": "West Virginia",
+    "slug": "westvirginia",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/westvirginia",
+    "title": "West Virginia SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "WV SNAP Food Restriction Waiver Approval(820.05 KB)",
+        "filename": "snap-foodrestrictionWaiverApproval-westvirginia.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-westvirginia.pdf"
+      },
+      {
+        "title": "WV SNAP Food Restriction Waiver Request(6.73 MB)",
+        "filename": "snap-FoodRestrictionWaiverRequest-WestVirginia.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-FoodRestrictionWaiverRequest-WestVirginia.pdf"
+      },
+      {
+        "title": "WV Retailer Notice(184.80 KB)",
+        "filename": "snap-foodrestrictionwaiver-retailernotice-wv.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-retailernotice-wv.pdf"
+      }
+    ],
+    "target_implementation_date": "01/01/26",
+    "summary_of_request": "Restricts purchase of soda."
+  },
+  {
+    "state": "Wyoming",
+    "slug": "wyoming",
+    "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/wyoming",
+    "title": "Wyoming SNAP Food Restriction Waiver",
+    "enclosures": [
+      {
+        "title": "WY SNAP Food Restriction Waiver Approval(3.27 MB)",
+        "filename": "wy-snapfoodrestrictionwaiver-approval.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/wy-snapfoodrestrictionwaiver-approval.pdf"
+      },
+      {
+        "title": "WY SNAP Food Restriction Waiver Request(317.27 KB)",
+        "filename": "wy-snapfoodrestrictionwaiver-request.pdf",
+        "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/wy-snapfoodrestrictionwaiver-request.pdf"
+      }
+    ],
+    "target_implementation_date": "02/01/27",
+    "summary_of_request": "Restricts sweetened, carbonated beverages."
+  }
+]

@@ -1,0 +1,368 @@
+# Text extracted from: snap-foodrestrictionWaiverRequest-texas.pdf
+# Source: https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverRequest-texas.pdf
+
+--- Page 1 ---
+
+:;~~'""' 
+Assistance 
+Program 
+Putting Healthy Food 
+Within Reach 
+SNAP Food Restriction Demonstration Waiver Request Template It
+    United States Department of Agriculture Food and Nutrition Service 
+SNAP FOOD RESTRICTION STATE DEMONSTRATION REQUEST 
+Section 17(b) of the Food and Nutrition Act of 2008, as amended (the Act), allows FNS to waive 
+statutory requirements of the Act to conduct pilot projects designed to test program changes to 
+increase the efficiency of the Supplemental Nutrition Assistance Program (SNAP) and improve 
+the delivery of SNAP benefits to eligible households. The Act limits the provisions that may be 
+waived. Projects may be approved for a period of 5 years and the Act requires that each project 
+must include an evaluation component that demonstrates the effects of the project. 
+This template intends to guide and assist States in submitting a SNAP Food Restriction 
+Demonstration Project Request. States should follow the guided prompts and questions and offer 
+any additional detail, if applicable, under each section to ensure a complete understanding of the 
+State’s proposed project. 
+States should review the impermissible projects prohibited by Section 17 (b)(1)(B)(iv) of the Act 
+and additional restrictions on demonstration projects in the appendix below before requesting a 
+SNAP Food Restriction demonstration project. Additionally, to facilitate the demonstration 
+review process, FNS strongly suggests States inform their Regional Office to discuss the project 
+and provide any necessary technical assistance prior to submission of a request. The FNS 
+National Office SNAP Food Restriction demonstration pilot team is also open to join Regional or 
+State Agency calls to provide technical assistance. 
+SNAP Food Restriction demonstration projects are intended to test innovative ideas that develop 
+and implement modernized programmatic systems, infuse SNAP with new programmatic energy 
+and vision, and strengthen State strategies to encourage healthy choices, healthy outcomes, and 
+healthy families. FNS looks forward to working with States on potential changes to program 
+operations that align with the Secretary’s vision for nutrition assistance programs. 
+FNS reserves the right to withdraw its waiver approval and terminate demonstration projects at 
+any time if FNS determines that the project is inconsistent with SNAP goals to increase the 
+efficiency of the program and to improve the delivery of SNAP benefits to raise levels of 
+nutrition among low-income individuals. If the State is unable to provide the data required as 
+part of the terms and conditions of waiver approval or if FNS determines that the project is 
+associated with significant increases in payment errors or access concerns, FNS may suspend or 
+terminate the project at any time. 
+1 | P a g e
+
+--- Page 2 ---
+
+SNAP Food Restriction Demonstration Waiver Request Template 
+Type of Request: SNAP FOOD RESTICTION 
+Date of Request: 6/27/2025 
+State: TX 
+Region: SWRO 
+Statutory Citations: 
+7 USC Ch. 51 §2012 (k) provides that SNAP recipients may purchase: (1) seeds and plants to 
+produce food at home or (2) any food or food product for home consumption. The provision also 
+bars SNAP recipients from purchasing alcoholic beverages, tobacco, and hot food products ready 
+for immediate consumption. 
+Regulatory Citations: 
+7 CFR 271.2 “Eligible foods” defines purchases recipients may make with SNAP benefits 
+aligned with the statutory citation. 
+Summary of Food Restriction Demonstration Project Request: 
+SNAP was created to increase access to nutritious food; however, many purchases are for foods 
+that are high in added sugars and artificial sweeteners with little to no nutritional value. To 
+improve the health outcomes, well-being, and quality of life for many low-income Texans, this 
+waiver will prohibit the purchase of sweetened drinks and candy with SNAP benefits. 
+Proposed Alternative Procedures to Operate Project: 
+HHSC will help many Texas SNAP participants make good food choices by prohibiting the 
+purchase of sweetened drinks and candy with SNAP benefits. Therefore, the state is requesting to 
+modify the statutory and regulatory definitions of “eligible foods” to prohibit the items below. 
+SNAP-Eligible Food and Food Products Amended by the Food Restriction Demonstration 
+Waiver 
+• Sweetened drinks: Defined as nonalcoholic beverages made with water that contain five 
+grams or more of added sugar or any amount of artificial sweetener. Excluded from this 
+definition are beverages that contain: (1) milk or milk products; (2) soy, rice, or similar 
+milk substitutes; or (3) more than 50 percent of vegetable or fruit juice by volume. 
+• Candy: Defined by Texas Administrative Code, Chapter 34, Section 3.293 (a)(4), as a 
+confection made with natural or artificial sweeteners. Examples include candy bars; gum; 
+drops; taffy; nuts, raisins, and fruits that have been candied, crystalized, glazed, or coated 
+with chocolate, yogurt, or caramel; and nuts roasted with a sweetener. The term does not 
+include products used exclusively for cooking, such as chocolate bits and cake sprinkles 
+and snack items as defined by the Texas Administrative Code, Chapter 34, Section 3.293 
+(a)(14).  
+Currently, HHSC also encourages households to make good food choices through ongoing 
+SNAP Nutrition Education (SNAP-Ed) programming, as available. This programming teaches 
+meal planning and smart shopping skills to stretch food dollars, promotes MyPlate guidelines for 
+balanced nutrition, encourages consumption of fresh fruits and vegetables, provides nutrition 
+education and cooking demonstrations, supports families in making healthier choices at grocery 
+2 | P a g e
+
+--- Page 3 ---
+
+SNAP Food Restriction Demonstration Waiver Request Template 
+stores, offers guidance on reading nutrition labels and understanding portion sizes, and connects 
+households with farmers' markets that accept SNAP benefits. 
+During HHSC’s Annual Healthy Texan Week, regular SNAP-Ed efforts intensify through 
+organizing additional outreach events in underserved communities, providing extra resources and 
+materials to SNAP recipients, expanding programming by coordinating with community 
+organizations and local health departments, highlighting success stories from families who have 
+improved their eating habits, and offering Nutrition Education Reinforcement Items. By 
+maintaining the existing comprehensive approach to encourage nutrition, which combines year-
+round SNAP-Ed programming with the focused efforts of Healthy Texan Week, this 
+demonstration project will complement HHSC’s existing efforts to promote and support healthier 
+food choices and lifestyles among Texas families. 
+SNAP-Eligible Household Considerations: 
+This demonstration waiver will apply to 100 percent of the Texas SNAP caseload, representing 
+approximately 3.5 million people who comprise 1.6 million households. 
+SNAP-Authorized Retailers Considerations: 
+This demonstration project does not require retailer-level system changes. Retailers will only be 
+required to restrict the purchase of prohibited items as is currently done for other ineligible items, 
+like alcohol or tobacco. As there are no requirements for retailers to update or enhance their 
+systems technology, all SNAP-authorized retailers in Texas will participate in the Food 
+Restrictions Waiver by April of 2026.   
+SNAP-Authorized Retailers Participating in the Food Restriction Demonstration Waiver 
+• All retailers authorized to accept SNAP benefits STATEWIDE will participate in this 
+demonstration waiver. 
+Consideration of retailer size 
+• Regardless of size there will be a 9-month implementation period in which all Texas 
+retailers will be required to come into compliance. 
+Retailer-Level System Changes 
+• Texas retailers will update the ineligible items in their system to include the prohibited 
+items. 
+Impacts to the State Agency: 
+Due to the state’s limited ability to enforce the requirements of this demonstration project 
+without FNS assistance: (1) existing staff resources will be used to implement the demonstration; 
+and (2) changes to systems are not needed for HHSC to operate the demonstration project. 
+Therefore, this demonstration project will impact resources needed to evaluate the waiver’s 
+effectiveness. This is of minimal impact to the state agency which can be absorbed with existing 
+resources. 
+State-Level System Changes 
+3 | P a g e
+
+--- Page 4 ---
+
+SNAP Food Restriction Demonstration Waiver Request Template 
+No state level case management information system changes will be made. Although Texas does 
+not currently operate a Summer EBT Program, restrictions will apply to Summer EBT purchases 
+if the program is implemented in the state. 
+Food Restriction Pilot Compliance Plans 
+Currently, HHSC in conjunction with the Texas Office of Inspector General (OIG), refers 
+complaints and reports of prohibited purchases to the Food and Nutrition Service (FNS) who is 
+responsible for providing penalties and disqualifications to retailers. Furthermore, there is no 
+current federal mandate that FNS implement enforcing action or penalties on retailers who do not 
+comply with prohibited purchase requirements mandated at the state-level. 
+Staff Capacity and Training 
+The project will be implemented by the department at HHSC which is responsible for monitoring 
+and ensuring vendor and EBT system compliance. As such, this team already has existing 
+relationships with SNAP authorized retailers and processes in place to refer retailer complaints to 
+the FNS through the Texas OIG. They also have the infrastructure in place to communicate 
+immediately and directly with retailers through a centralized mailbox. Furthermore, the team will 
+lead implementation of this effort; communicating across departments to ensure necessary 
+communication and training occur. They will also use implementation feedback to make 
+continual improvements, as well as ensuring restrictions are clearly communicated and well-
+known by retailers, clients, and agency staff. 
+Communication Plan: 
+HHSC plans to raise awareness and educate clients, the public, retailers, and staff about changes 
+to allowable SNAP purchases centered around the below key messaging elements. 
+• The purpose, goal, and effective date of the demonstration project. 
+• Allowable and unallowable SNAP purchases. 
+• SNAP basics, including who the program is for and how it works.   
+• Details necessary for retailer implementation. 
+Communication efforts are already underway as HHSC has started to engage retailers and 
+ambassadors to help identify the requisite outreach, information needs, and training essential to 
+this demonstration project. Additionally, all retailers will be able to outreach the agency with 
+questions by contacting an actively monitored centralized mailbox. Furthermore, all stakeholders 
+will be notified of any changes to policy through our current Gov Delivery System, which allows 
+HHSC to deliver messages to subscribers. 
+Timeline: 
+In the three months prior to implementation (December 2025-February 2026), HHSC will: 
+• Make a stakeholder toolkit available, including FAQs, signage, and a power point 
+outlining the changes which will occur; 
+• Partner with retailers to develop flyers, posters and other media for use in local stores; 
+4 | P a g e
+
+--- Page 5 ---
+
+SNAP Food Restriction Demonstration Waiver Request Template 
+• Begin staff messaging and training which will make FAQ and talking points available via 
+the agency’s intranet; and 
+• Educate the public and clients about the changes using social media posting, 
+YourTexasBenefits.com banner messaging, creating or updating a webpage about healthy 
+food, and updating scripts for Lone Star Help Desk and 2-1-1 call center staff. 
+In the two months prior through implementation (January 2026 – February 2026), HHSC will: 
+• Issue a news release about the changes; 
+• Use automated messaging through robocalls, text messages, and/or e-mails to 
+communicate the changes to clients; 
+• Update client materials, existing HHS webpages, and applications, forms, and notices 
+(specifically documents that accompany the mailing of EBT cards); and  
+• Notify newly certified retailers of the state restrictions electronically via e-mail and/or 
+direct mail. 
+In the month prior to implementation (February 2026), HHSC will: 
+• Conduct participant and retailer surveys.   
+On a quarterly basis after implementation, HHSC will: 
+• Review overall transaction costs and customer data collected. 
+In the mid-way point after implementation (March 2027), HHSC will 
+• Conduct participant and retailer survey.   
+In the month after waiver expiration (March 2028), HHSC will 
+• Conduct participant and retailer surveys.  
+Justification for Request: 
+To better align with SNAP’s goal to help “low-income households to obtain a more nutritious 
+diet,” HHSC has a responsibility to assist households purchase food with nutritional value. 
+Currently, the rise in the number of residents, both children and adults, who are overweight, and 
+struggle with obesity, is a major concern for Texas. According to the American Heart Association, 
+obesity in Texas is an epidemic that without intervention is projected to increase from 34 percent 
+of Texas adults to 53 percent by 2030.1 More importantly, obesity challenges can make a person 
+more susceptible to heart disease, stroke, high blood pressure, type 2 diabetes, and certain cancers; 
+causing long-term economic consequences to Texas’ health care system.2 
+1 National Institute of Diabetes and Digestive and Kidney Diseases, Centers for Disease Control and 
+Prevention, Z. Ward, B. Stierman, GlobalData PLC, I. Telesford, and American Diabetes Association Professional 
+Practice Committee. 2023. Help Prevent Diabetes. Treat Obesity. Health. National Institute of Diabetes and Digestive 
+and Kidney Diseases. https://diabetes.org/sites/default/files/2025-05/the-burden-of-obesity-texas-05-08-25.pdf 
+2 “Obesity in Texas.” n.d. Texas Department of State Health Services. Accessed June 6, 2025. 
+https://www.dshs.texas.gov/obesity-texas. 
+5 | P a g e
+
+--- Page 6 ---
+
+SNAP Food Restriction Demonstration Waiver Request Template 
+The United States Department of Agriculture’s (USDA’s) dietary guide states, “When added 
+sugars in foods and beverages exceed 10 percent of calories, a healthy dietary pattern within calorie 
+limits is very difficult to achieve.”3 Furthermore, the USDA states, “sugar contains calories and 
+only calories; it provides no other nutrients - no protein, no vitamins and no minerals.”4 As there 
+is a known link between sugar consumption and obesity, HHSC is ensuring the taxpayer funded 
+benefit subsidizes food items which provide real nutritional value, rather than empty calories 
+which primarily lead to chronic health issues.   
+Proposed Evaluation Procedures: 
+The evaluation will consist of a holistic analysis focused on gathering feedback from retailers, 
+participants, and key stakeholders. HHSC will also analyze complaint data from both participants 
+and retailers. HHSC will leverage existing resources through our SNAP-Ed program and 
+partnerships, as available, and may modify the current evaluator agreement to supplement 
+procedures to implement this waiver. 
+Participant Surveys 
+To analyze changes to SNAP participant behavior, HHSC will conduct three surveys: (1) prior to 
+the project’s implementation, (2) mid-way through the project’s implementation, and (3) 
+following the project’s initial expiration date. These surveys will gather feedback to determine 
+whether there are changes in the amount of unhealthy foods family’s purchase, changes in the 
+number of meals eaten outside the home or not purchased with SNAP benefits, increases in the 
+amount of non-SNAP dollars spent on the purchase of restricted food items, project awareness, 
+and whether households can identify which food items are prohibited. Furthermore, the project 
+will collect statements from households on the overall impact of the program to gather any 
+unexpected impacts. 
+Participant Data 
+HHSC will collect and analyze client complaints about this demonstration, as well as review out­
+of-state transaction data to determine whether there are any changes in cross-border shopping 
+transactions. 
+Retailer Surveys 
+Three retailer surveys will be conducted at the same time as the participant surveys. These 
+surveys will assess whether retailers feel aware of and knowledgeable about allowable 
+purchases, collect practices used to inform clients of unallowable purchases, measure retailer 
+satisfaction, and analyze any changes to operations retailers believe resulted from this project. 
+3 U.S. Department of Agriculture and U.S. Department of Health and Human Services. 2020. 
+“Dietary Guidelines for Americans 2020-2025.” Dietaryguidelines.Gov. Accessed June 6, 2025. 
+https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020­
+2025.pdf. 
+4 Susan, Raatz. 2012. “The Question of Sugar.” USDA ARS. 2012. Accessed June 6, 2025. 
+https://www.ars.usda.gov/plains-area/gfnd/gfhnrc/docs/news-articles/2012/the-question-of­
+sugar/#:~:text=Sugar%20contains%20calories%20and%20only,like%20sweetness%20for%20a%20reason 
+6 | P a g e
+
+--- Page 7 ---
+
+__ 
+___________________________________________ 
+SNAP Food Restriction Demonstration Waiver Request Template 
+Retailer Compliance 
+Complaints received about the sale of prohibited items will be collected and analyzed on a 
+quarterly basis. Non-compliance will be documented, and HHSC will work to provide additional 
+training and support to non-compliant retailers. 
+Anticipated Implementation Date: 
+HHSC plans to implement this effort on April 1, 2026. 
+Anticipated Program Costs: 
+There is no anticipated impact on SNAP program costs for the state. There may be additional 
+costs to the state for the evaluation component. When this demonstration project is implemented, 
+the agency will respond to complaints of noncompliance using current processes and procedures. 
+Therefore, additional resources will not be necessary for compliance. 
+Anticipated Expiration Date: 
+Five years from the date of FNS approval. 
+Signature of Requesting Official: 
+Molly Regan  
+Deputy Executive Commissioner, Access and Eligibility Services 
+State Contact: 
+Name: Molly Regan 
+Email: molly.regan@hhs.texas.gov 
+Telephone: (737) 704-5486 
+Regional Office Contact: 
+Name: 
+Email: 
+Telephone: 
+7 | P a g e
+
+--- Page 8 ---
+
+SNAP Food Restriction Demonstration Waiver Request Template 
+Appendix 
+Impermissible Projects 
+Section 17(b)(1)(B)(iv) of the Act explicitly prohibits waivers of certain provisions of the Act. 
+FNS is unable to approve projects that involve a waiver of these provisions. 
+Impermissible eligibility criteria waivers 
+Food Restriction demonstration projects may not: 
+• Change the definition of household for those living in Federally subsidized housing for 
+older adults, group living arrangements, domestic violence shelters, homeless shelters, 
+and drug and alcohol treatment centers), institutions, or boarding houses (Sec. 3(m)(4) 
+and (5)); 
+• Change the gross income standards of eligibility for households that do not have an 
+elderly or disabled member to a level other than 130 percent of the Federal Poverty Level 
+(Sec. 5(c)(2)); 
+• Change the work requirements exemption for parents or household members caring for 
+with dependent children under the age of 6 or caring for an incapacitated person (Sec. 
+6(d)(2)(B)); 
+• Increase the shelter deduction for households with low or no out-of-pocket housing costs; 
+or 
+• Deny benefits to an otherwise eligible individual or household (last sentence of Sec. 
+5(a)). 
+Impermissible State operations waivers 
+Food Restriction demonstration projects may not: 
+• Waive the requirements (Sec. 11(e)(2)(B)) for States to: 
+o Provide timely, accurate and fair service to SNAP applicants and participants; 
+o Develop a SNAP application; and if the State has a website, make the application 
+available on their website in every language a printed application is available; 
+o Allow a household to apply on the same day they first contact a SNAP office 
+during office hours; 
+o Consider an application with only name, address, and signature to be filed on the 
+date of application; 
+o Require an adult representative to certify that the information on the application is 
+true and that all members are citizens or eligible aliens; 
+o Provide a method of certifying and issuing benefits to homeless households; or 
+o Determine applicant eligibility within 30 days of the date of the filing of an 
+application (time standard in Sec. 11(e)(3)). 
+• Change the provisions outlining which parts of the Act are not allowed to be waived; 
+• Absolve a State from acting with reasonable promptness on substantial reported changes 
+in income or household size; 
+8 | P a g e
+
+--- Page 9 ---
+
+SNAP Food Restriction Demonstration Waiver Request Template 
+• Prohibit States from operating a Workfare Program or change the 50/50 matching 
+provisions for workfare activities, including reimbursements for participants in workfare 
+activities; 
+• Waive provisions of the Simplified SNAP (an optional program for TANF households); 
+• Waive the State Option to issue benefits to individuals who are not compliant with the 
+work requirements established by welfare reform. If the State issues benefits to these 
+individuals, they must pay the Federal Government back and will not receive Federal 
+match for those recipients. 
+• Change the 50/50 Federal reimbursement provisions; 
+• Change QC system requirements, payment error rate, and associated liability process for 
+payment error rates; or 
+• Change 50/50 Federal reimbursement provisions for eligibility systems. 
+FNS is available to answer questions and provide technical assistance to States requesting 
+demonstration projects. If you are unsure whether your State’s request would require an 
+impermissible waiver, please contact FNS. 
+Additional Restrictions on Demonstration Projects 
+• Demonstration projects may be approved for up to five years with extensions possible 
+thereafter. 
+• If a demonstration project reduces benefits by more than 20 percent for more than 5 
+percent of households in the project area (excluding households whose benefits are 
+reduced for failure to comply with work requirements), the demonstration project: 
+o cannot affect more than 15% of households in the State AND 
+o may not continue for more than 5 years unless the Secretary approves an 
+extension request. 
+• Demonstration projects may not: 
+o Provide benefits in the form of cash or a manner otherwise non-restricted to food 
+(except for a project approved before August 22, 1996); 
+o Allow SNAP funds to be used to fund other public assistance programs, or use the 
+funds for any purpose other than the purchase of food, program administration, or 
+employment and training activities; or 
+o Count SNAP benefits as income or resources for tax purposes, welfare, public 
+assistance programs or any other Federal, State, or local assistance program (Sec. 
+8(b)). 
+9 | P a g e

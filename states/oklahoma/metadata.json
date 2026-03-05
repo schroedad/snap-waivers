@@ -1,0 +1,30 @@
+{
+  "state": "Oklahoma",
+  "slug": "oklahoma",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/oklahoma",
+  "title": "Oklahoma SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "OK SNAP Food Restriction Waiver Modification(201.42 KB)",
+      "filename": "snap-foodrestriction-waiverMod-OK.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverMod-OK.pdf"
+    },
+    {
+      "title": "OK SNAP Food Restriction Waiver Approval(854.05 KB)",
+      "filename": "snap-foodrestrictionWaiverApproval-oklahoma.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-oklahoma.pdf"
+    },
+    {
+      "title": "OK SNAP Food Restriction Waiver Request(347.25 KB)",
+      "filename": "snap-foodrestrictionRequest-oklahoma.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionRequest-oklahoma.pdf"
+    },
+    {
+      "title": "OK Retailer Notice(178.29 KB)",
+      "filename": "snap-retailernotice-foodrestrictionwaiver-oklahoma.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-retailernotice-foodrestrictionwaiver-oklahoma.pdf"
+    }
+  ],
+  "target_implementation_date": "02/15/26",
+  "summary_of_request": "Restricts purchase of soft drinks and candy."
+}

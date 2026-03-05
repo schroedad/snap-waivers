@@ -1,0 +1,25 @@
+{
+  "state": "Indiana",
+  "slug": "indiana",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/indiana",
+  "title": "Indiana SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "IN SNAP Food Restriction Waiver Approval(230.05 KB)",
+      "filename": "snap-foodrestriction-waiverApproval-indiana-061225.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-indiana-061225.pdf"
+    },
+    {
+      "title": "IN SNAP Food Restriction Waiver Request(212.44 KB)",
+      "filename": "snap-foodrestriction-waiverRequest-indiana.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-indiana.pdf"
+    },
+    {
+      "title": "IN Retailer Notice(182.60 KB)",
+      "filename": "snap-foodrestrictionwaiver-retailernotice-indiana.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-retailernotice-indiana.pdf"
+    }
+  ],
+  "target_implementation_date": "01/01/26",
+  "summary_of_request": "Restricts purchase of soft drinks and candy."
+}

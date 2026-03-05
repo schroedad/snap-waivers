@@ -1,0 +1,15 @@
+{
+  "state": "Missouri",
+  "slug": "missouri",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/missouri",
+  "title": "Missouri SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "MO SNAP Food Restriction Waiver Approval(4.26 MB)",
+      "filename": "snap-foodrestriction-waiverApproval-Missouri.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-Missouri.pdf"
+    }
+  ],
+  "target_implementation_date": "10/01/26",
+  "summary_of_request": "Restricts purchase of candy, prepared desserts, and certain unhealthy beverages."
+}

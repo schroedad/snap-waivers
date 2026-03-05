@@ -1,0 +1,30 @@
+{
+  "state": "Iowa",
+  "slug": "iowa",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/iowa",
+  "title": "Iowa SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "IA SNAP Food Restriction Waiver Modification(279.23 KB)",
+      "filename": "snap-foodrestriction-waiverMod-IA.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverMod-IA.pdf"
+    },
+    {
+      "title": "IA SNAP Food Restriction Waiver Approval(4.05 MB)",
+      "filename": "snap-foodrestriction-waiverApproval-Iowa.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-Iowa.pdf"
+    },
+    {
+      "title": "IA SNAP Food Restriction Waiver Request(292.25 KB)",
+      "filename": "snap-foodrestriction-waiverRequest-iowa.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-iowa.pdf"
+    },
+    {
+      "title": "IA Retailer Notice(173.92 KB)",
+      "filename": "snap-foodrestrictionwaiver-retailernotice-iowa.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-retailernotice-iowa.pdf"
+    }
+  ],
+  "target_implementation_date": "01/01/26",
+  "summary_of_request": "Restricts all taxable food items as defined by the Iowa Department of Revenue except food producing plants and seeds for food producing plants."
+}

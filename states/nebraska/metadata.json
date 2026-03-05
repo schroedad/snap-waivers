@@ -1,0 +1,25 @@
+{
+  "state": "Nebraska",
+  "slug": "nebraska",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/nebraska",
+  "title": "Nebraska SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "NE SNAP Food Restriction Waiver Approval(4.64 MB)",
+      "filename": "snap-foodrestriction-waiverApproval-nebraska.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-nebraska.pdf"
+    },
+    {
+      "title": "NE SNAP Food Restriction Waiver Request(67.35 KB)",
+      "filename": "snap-foodrestriction-waiverRequest-nebraska.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-nebraska.pdf"
+    },
+    {
+      "title": "NE Retailer Notice(186.65 KB)",
+      "filename": "snap-foodrestrictionwaiver-retailernotice-nebraska.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-retailernotice-nebraska.pdf"
+    }
+  ],
+  "target_implementation_date": "01/01/26",
+  "summary_of_request": "Restricts purchase of soda and energy drinks."
+}

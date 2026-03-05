@@ -1,0 +1,20 @@
+{
+  "state": "Kansas",
+  "slug": "kansas",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/kansas",
+  "title": "Kansas SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "KS SNAP Food Restriction Waiver Approval(3.56 MB)",
+      "filename": "ks-snapfoodrestrictionwaiver-approval.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/ks-snapfoodrestrictionwaiver-approval.pdf"
+    },
+    {
+      "title": "KS SNAP Food Restriction Waiver Request(418.85 KB)",
+      "filename": "ks-snapfoodrestrictionwaiver-request.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/ks-snapfoodrestrictionwaiver-request.pdf"
+    }
+  ],
+  "target_implementation_date": "02/15/27",
+  "summary_of_request": "Restricts candy and soft drinks."
+}

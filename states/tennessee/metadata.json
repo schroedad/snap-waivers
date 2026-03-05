@@ -1,0 +1,15 @@
+{
+  "state": "Tennessee",
+  "slug": "tennessee",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/tennessee",
+  "title": "Tennessee SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "TN SNAP Food Restriction Waiver Approval(3.85 MB)",
+      "filename": "snap-foodrestriction-waiverApproval-Tennessee.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-Tennessee.pdf"
+    }
+  ],
+  "target_implementation_date": "07/31/26",
+  "summary_of_request": "Restricts purchase of processed foods and beverages such as soda, energy drinks, and candy."
+}

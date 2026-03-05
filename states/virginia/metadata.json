@@ -1,0 +1,20 @@
+{
+  "state": "Virginia",
+  "slug": "virginia",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/virginia",
+  "title": "Virginia SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "VA SNAP Food Restriction Waiver Modification(134.04 KB)",
+      "filename": "va-snapFoodrestrictionWaiverModApproval.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/va-snapFoodrestrictionWaiverModApproval.pdf"
+    },
+    {
+      "title": "VA SNAP Food Restriction Waiver Approval(3.66 MB)",
+      "filename": "snap-foodrestrictionwaiver-virginia.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-virginia.pdf"
+    }
+  ],
+  "target_implementation_date": "10/01/26",
+  "summary_of_request": "Restricts purchase of \u201csweetened beverages.\u201d"
+}

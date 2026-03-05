@@ -1,0 +1,15 @@
+{
+  "state": "Hawaii",
+  "slug": "hawaii",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/hawaii",
+  "title": "Hawaii SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "HI SNAP Food Restriction Waiver Approval(3.55 MB)",
+      "filename": "snap-foodrestriction-waiverApproval-Hawaii.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-Hawaii.pdf"
+    }
+  ],
+  "target_implementation_date": "08/01/26",
+  "summary_of_request": "Restricts purchase of soft drinks."
+}

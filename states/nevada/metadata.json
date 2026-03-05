@@ -1,0 +1,20 @@
+{
+  "state": "Nevada",
+  "slug": "nevada",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/nevada",
+  "title": "Nevada SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "NV SNAP Food Restriction Waiver Approval(4.09 MB)",
+      "filename": "nv-snapfoodrestrictionwaiver-approval.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/nv-snapfoodrestrictionwaiver-approval.pdf"
+    },
+    {
+      "title": "NV SNAP Food Restriction Waiver Request(384.40 KB)",
+      "filename": "nv-snapfoodrestrictionwaiver-request.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/nv-snapfoodrestrictionwaiver-request.pdf"
+    }
+  ],
+  "target_implementation_date": "02/01/28",
+  "summary_of_request": "Restricts candy and sugar sweetened beverages."
+}

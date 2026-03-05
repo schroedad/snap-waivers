@@ -1,0 +1,25 @@
+{
+  "state": "Utah",
+  "slug": "utah",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/utah",
+  "title": "Utah SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "UT SNAP Food Restriction Waiver Approval(4.37 MB)",
+      "filename": "snap-foodrestriction-waiverApproval-utah.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-utah.pdf"
+    },
+    {
+      "title": "UT SNAP Food Restriction Waiver Request(81.17 KB)",
+      "filename": "snap-foodrestriction-waiverRequest-utah.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-utah.pdf"
+    },
+    {
+      "title": "UT Retailer Notice(173.78 KB)",
+      "filename": "snap-foodrestrictionwaiver-retailernotice-utah.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionwaiver-retailernotice-utah.pdf"
+    }
+  ],
+  "target_implementation_date": "01/01/26",
+  "summary_of_request": "Restricts purchase of soft drinks."
+}

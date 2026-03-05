@@ -1,0 +1,25 @@
+{
+  "state": "Florida",
+  "slug": "florida",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/florida",
+  "title": "Florida SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "FL SNAP Food Restriction Waiver Modification(168.87 KB)",
+      "filename": "fl-snap-foodRestrictionWaiverMod.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/fl-snap-foodRestrictionWaiverMod.pdf"
+    },
+    {
+      "title": "FL SNAP Food Restriction Waiver Approval(847.28 KB)",
+      "filename": "snap-foodrestrictionWaiverApproval-florida.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-florida.pdf"
+    },
+    {
+      "title": "FL SNAP Food Restriction Waiver Request(445.08 KB)",
+      "filename": "snap-foodrestrictionWaiverRequest-florida.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverRequest-florida.pdf"
+    }
+  ],
+  "target_implementation_date": "04/20/26",
+  "summary_of_request": "Restricts purchase of soda, energy drinks, candy, and prepared desserts."
+}

@@ -1,0 +1,25 @@
+{
+  "state": "Colorado",
+  "slug": "colorado",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/colorado",
+  "title": "Colorado SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "CO SNAP Food Restriction Waiver Modification(132.31 KB)",
+      "filename": "co-snap-foodRestrictionWaiverMod.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/co-snap-foodRestrictionWaiverMod.pdf"
+    },
+    {
+      "title": "CO SNAP Food Restriction Waiver Approval(713.07 KB)",
+      "filename": "snap-foodrestrictionWaiverApproval-colorado.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestrictionWaiverApproval-colorado.pdf"
+    },
+    {
+      "title": "CO SNAP Food Restriction Waiver Request(286.51 KB)",
+      "filename": "snap-FoodRestrictionWaiverRequest-CO.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-FoodRestrictionWaiverRequest-CO.pdf"
+    }
+  ],
+  "target_implementation_date": "04/30/26",
+  "summary_of_request": "Restricts purchase of soft drinks."
+}

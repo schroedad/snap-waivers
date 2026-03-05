@@ -1,0 +1,20 @@
+{
+  "state": "Arkansas",
+  "slug": "arkansas",
+  "page_url": "https://www.fns.usda.gov/snap/waivers/foodrestriction/arkansas",
+  "title": "Arkansas SNAP Food Restriction Waiver",
+  "enclosures": [
+    {
+      "title": "AR SNAP Food Restriction Waiver Approval(3.99 MB)",
+      "filename": "snap-foodrestriction-waiverApproval-arkansas.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-arkansas.pdf"
+    },
+    {
+      "title": "AR SNAP Food Restriction Waiver Request(250.10 KB)",
+      "filename": "snap-foodrestriction-waiverRequest-arkansas.pdf",
+      "source_url": "https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-arkansas.pdf"
+    }
+  ],
+  "target_implementation_date": "07/01/26",
+  "summary_of_request": "Restricts purchase of soda, fruit and vegetable drinks with less than 50% natural juice, unhealthy drinks, and candy."
+}
