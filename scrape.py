@@ -1,9 +1,16 @@
 #!/usr/bin/env python3
-"""Scrape SNAP food restriction waiver data from USDA FNS website."""
+"""Scrape SNAP food restriction waiver data from USDA FNS website.
+
+Usage:
+    python3 scrape.py           # Scrape only (pages + PDFs)
+    python3 scrape.py --full    # Scrape, extract PDF text, and rebuild all_waivers.md
+"""
 
 import json
 import os
 import re
+import subprocess
+import sys
 import time
 
 import requests
@@ -12,7 +19,8 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://www.fns.usda.gov"
 INDEX_URL = f"{BASE_URL}/snap/waivers/foodrestriction"
 
-STATES = {
+# Fallback list in case auto-discovery fails
+KNOWN_STATES = {
     "arkansas": "Arkansas",
     "colorado": "Colorado",
     "florida": "Florida",
@@ -66,18 +74,24 @@ def download_pdf(url, dest_path):
 
 
 def scrape_index():
-    """Scrape the main index page for the summary table."""
+    """Scrape the main index page for the summary table and discover states.
+
+    Returns:
+        (states_dict, summaries_dict) where states_dict maps slug->name
+        and summaries_dict maps name->{"target_implementation_date", "summary_of_request"}.
+    """
     print("Scraping index page...")
     soup = fetch_page(INDEX_URL)
 
-    # Extract table data
     table = soup.find("table")
     if not table:
-        print("WARNING: No table found on index page")
-        return {}
+        print("WARNING: No table found on index page, using known states list")
+        return KNOWN_STATES, {}
 
     rows = table.find_all("tr")
+    states = {}
     summaries = {}
+    prefix = "/snap/waivers/foodrestriction/"
     for row in rows[1:]:  # skip header
         cells = row.find_all(["td", "th"])
         if len(cells) >= 3:
@@ -88,7 +102,27 @@ def scrape_index():
                 "target_implementation_date": impl_date,
                 "summary_of_request": summary,
             }
-    return summaries
+            # Discover slug from link href
+            link = cells[0].find("a", href=True)
+            if link and link["href"].startswith(prefix):
+                slug = link["href"][len(prefix):].strip("/")
+                states[slug] = state_name
+
+    if not states:
+        print("WARNING: Could not discover states from links, using known states list")
+        return KNOWN_STATES, summaries
+
+    # Merge any known states not found on the page (safety net)
+    for slug, name in KNOWN_STATES.items():
+        if slug not in states:
+            states[slug] = name
+
+    new_states = set(states.keys()) - set(KNOWN_STATES.keys())
+    if new_states:
+        print(f"  Discovered {len(new_states)} new state(s): {', '.join(states[s] for s in sorted(new_states))}")
+
+    print(f"  Total states: {len(states)}")
+    return states, summaries
 
 
 def extract_letter_text(soup):
@@ -215,15 +249,17 @@ def build_summary(all_metadata):
 
 
 def main():
+    full = "--full" in sys.argv
+
     os.makedirs("states", exist_ok=True)
 
-    # Scrape the index page
-    index_summaries = scrape_index()
+    # Scrape the index page (also discovers states dynamically)
+    states, index_summaries = scrape_index()
     print(f"Found {len(index_summaries)} states in index table")
 
     # Scrape each state
     all_metadata = []
-    for slug, state_name in sorted(STATES.items()):
+    for slug, state_name in sorted(states.items()):
         try:
             meta = scrape_state(slug, state_name, index_summaries)
             all_metadata.append(meta)
@@ -233,6 +269,13 @@ def main():
 
     # Build summary
     build_summary(all_metadata)
+
+    if full:
+        print("\nRunning extract.py...")
+        subprocess.run([sys.executable, "extract.py"], check=True)
+        print("\nRunning build_context.py...")
+        subprocess.run([sys.executable, "build_context.py"], check=True)
+
     print("\nDone!")
 
 

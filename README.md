@@ -1,6 +1,41 @@
 # SNAP Food Restriction Waivers
 
-Scraped data from the [USDA FNS SNAP Food Restriction Waivers](https://www.fns.usda.gov/snap/waivers/foodrestriction) page. Contains approval letters, terms and conditions, waiver requests, and supporting documents for all 22 states with approved waivers.
+Scraped data from the [USDA FNS SNAP Food Restriction Waivers](https://www.fns.usda.gov/snap/waivers/foodrestriction) page. Contains approval letters, terms and conditions, waiver requests, and supporting documents for all states with approved waivers.
+
+## Quick Start
+
+```bash
+git clone <repo-url>
+cd waivers
+
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+## Updating Data
+
+To re-scrape everything and rebuild all outputs in one command:
+
+```bash
+python3 scrape.py --full
+```
+
+This runs the full pipeline:
+
+1. **`scrape.py`** -- Scrapes the USDA FNS index page, discovers all states with approved waivers, downloads each state's approval letter and PDF enclosures
+2. **`extract.py`** -- Extracts machine-readable text from each PDF
+3. **`build_context.py`** -- Generates `all_waivers.md`, a single consolidated file with all waiver data
+
+New states are automatically discovered from the index page -- no code changes needed.
+
+You can also run each step individually:
+
+```bash
+python3 scrape.py          # Scrape pages and download PDFs only
+python3 extract.py         # Extract text from PDFs and re-extract letters
+python3 build_context.py   # Rebuild all_waivers.md
+```
 
 ## Repository Structure
 
@@ -12,11 +47,13 @@ states/
     *.pdf               # Original PDF enclosures (approval docs, terms & conditions, waiver requests)
     *.txt               # Machine-readable text extracted from each PDF
 summary.json            # All states' metadata in one file
-scrape.py               # Script to scrape state pages and download PDFs
-extract.py              # Script to extract letter text and PDF text
+all_waivers.md          # Consolidated markdown with all waiver data
+scrape.py               # Scraper (auto-discovers states from USDA FNS index page)
+extract.py              # PDF text extraction
+build_context.py        # Generates all_waivers.md
 ```
 
-## States Included (22)
+## States Included
 
 | State | Implementation Date | Restrictions |
 |-------|-------------------|-------------|
@@ -42,6 +79,8 @@ extract.py              # Script to extract letter text and PDF text
 | Virginia | 10/01/26 | Sweetened beverages |
 | West Virginia | 01/01/26 | Soda |
 | Wyoming | 02/01/27 | Sweetened carbonated beverages |
+
+*This table reflects data at time of last scrape. Run `python3 scrape.py --full` to update.*
 
 ## Data Files
 
@@ -70,17 +109,11 @@ The approval letter from USDA Secretary Brooke L. Rollins to the state governor,
 ### *.txt (extracted PDF text)
 Plain text extracted from each PDF for full-text search and AI analysis. Includes page markers.
 
-## Refreshing Data
+## Requirements
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-
-python3 scrape.py    # Scrape pages and download PDFs
-python3 extract.py   # Extract text from PDFs and re-extract letters
-```
+- Python 3.10+
+- Dependencies: `beautifulsoup4`, `requests`, `pymupdf` (see `requirements.txt`)
 
 ## Source
 
-All data sourced from https://www.fns.usda.gov/snap/waivers/foodrestriction (accessed March 2026).
+All data sourced from https://www.fns.usda.gov/snap/waivers/foodrestriction

@@ -71,9 +71,9 @@ def main():
     sections.append("# SNAP Food Restriction Waivers — All States")
     sections.append("")
     sections.append(
-        "This document contains all publicly available data on SNAP food restriction waivers "
-        "across 22 U.S. states, including approval letters, waiver requests, modifications, "
-        "and retailer notices. Data was scraped from the USDA Food and Nutrition Service website."
+        f"This document contains all publicly available data on SNAP food restriction waivers "
+        f"across {len(states)} U.S. states, including approval letters, waiver requests, modifications, "
+        f"and retailer notices. Data was scraped from the USDA Food and Nutrition Service website."
     )
 
     # Summary table
