@@ -1,0 +1,485 @@
+# nv-snapfoodrestrictionwaiver-request.pdf
+
+**Source:** https://www.fns.usda.gov/sites/default/files/resource-files/nv-snapfoodrestrictionwaiver-request.pdf
+
+---
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+**1. Type of Request** : Demonstration-1
+
+**2. Date of Request** : February 2, 2026
+
+**3. State** : Nevada
+
+**4. Region** : WRO
+
+**5. Statutory Citations** : 7 U.S.C. § 2012(k)
+
+6. **Regulatory Citations** : Utilize 7 CFR § 282.1 to amend 7 CFR § 271.2 (Eligible Food Items)
+
+7. **Summary of Demonstration Project** :
+
+Nevada is proposing to exclude sugar-sweetened beverages (SSBs) and candy from purchases made
+with Supplemental Nutrition Assistance Program (SNAP) benefits in order to encourage healthier food
+and beverage choices while maintaining full SNAP benefit amounts. The proposed Nevada Healthy
+Access Project (NHAP) demonstration has a targeted implementation day of February 1, 2028,
+following FNS approval by USDA’s Food and Nutrition Service (FNS). This statewide implementation
+date was intentionally selected to avoid the end-of-year peak retail period, thereby reducing operational
+burden and minimizing potential implementation challenges for retailers. Under the demonstration,
+retailers would enforce the proposed exclusions by updating point-of-sale (POS) systems, ideally using
+Universal Product Code (UPC)-based item identification, and would apply processes consistent with
+existing retailer practices for federally ineligible items such as alcohol and tobacco. Collectively, these
+operational changes support a broader strategy to strengthen SNAP through a coordinated public health
+and social services approach that aligns benefit policy, nutrition education, and comprehensive retailer
+engagement. Through intentional cross-sector collaboration, the demonstration is designed to support
+informed and healthier purchasing decisions, redirect existing purchasing power toward eligible,
+healthier food options, and advance sustainable public health and social service outcomes for lowincome households. If approved, NHAP would implement six coordinated statewide nutrition education
+initiatives integrated through the Nevada Division of Social Services (DSS) SNAP-Ed project, Rethink
+Your Drink Nevada (RYDN), including a statewide RYDN campaign; promotion of Double Up Food
+Bucks with integrated RYDN messaging; promotion of Farm to SNAP Households incorporating RYDN
+nutrition education; marketing of eligible alternatives to SSBs and candy using RYDN-informed
+materials; in-store incentives using RYDN-branded resources; and retailer recognition aligned with
+broader state-led initiatives and public-facing acknowledgments. To support successful implementation,
+Nevada would provide technical assistance and training to retailers and partners in coordination with
+FNS both before and after the targeted implementation day. The NHAP demonstration also includes
+coordinated communication, nutrition education, compliance, monitoring, and evaluation plans, with
+specific considerations for SNAP participants and SNAP-authorized retailers. DSS would oversee
+statewide implementation in partnership with its EBT vendor, FNS, retailers, and other public health and
+social services partners, supported by comprehensive implementation plans, POS-based item blocking,
+and system updates. Ongoing engagement with retailer associations across Nevada and continued
+collaboration with retailers, SNAP participants, and state and community partners would further support
+consistent implementation, minimize disruption, ensure clear, timely, and consistent communication
+before and after the targeted implementation day.
+
+Page **1** of **10**
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+**8. Foods to Be Restricted Under This Waiver**
+
+**8.1** Proposed Foods for Eligibility Modification
+
+Under the proposed Nevada Healthy Access Project (NHAP) demonstration, the State of Nevada
+Division of Social Services (DSS) requests a modification to the definition of eligible foods under the
+Nevada Supplemental Nutrition Assistance Program (SNAP). Specifically, Nevada proposes to exclude
+sugar-sweetened beverages (SSBs) and candy from the definition of eligible foods under SNAP. The
+proposed exclusions would extend beyond current federal exclusions and would be enforced through
+retailer systems, ideally using Universal Product Code (UPC)-based filtering. The most practical
+enforcement approach for Nevada would be informed by retailer input related to point-of-sale system
+capabilities, inventory management practices, and implementation feasibility. Nevada’s goal is to
+increase the purchasing power of SNAP benefits for healthier alternatives to BSSs and candy without
+reducing benefit amounts, while reinforcing nutrition messaging and helping to reduce the risk of dietrelated chronic diseases. This approach aligns with SNAP’s mission to improve nutrition and health
+outcomes. SSBs are defined as non-alcoholic beverages containing added caloric sweeteners introduced
+during processing, preparation, or at the point of sale. While this waiver restricts the purchase of sugarsweetened beverages using SNAP benefits, diet beverages are explicitly excluded. Diet beverages are
+non-alcoholic, carbonated or non-carbonated beverages that contain non-caloric sweeteners such as
+aspartame, sucralose, or stevia and do not contain added caloric sweeteners such as sugar or highfructose corn syrup. As such, they do not meet the definition of soft drinks outlined in this waiver and
+typically contain zero calories, no sugar, and no carbohydrates. Candy refers to confections primarily
+made with sugar, corn syrup, or high-fructose corn syrup that do not include chocolate, fruits, or nuts.
+
+**8.1.1** The term “Sugar-Sweetened Beverages” **(SSBs) includes:**
+Ready-to-consume or ready-to-mix non-alcoholic beverages that contain added caloric sweeteners (e.g.,
+sugar, high-fructose corn syrup) and meet one or more of the following criteria:
+
+       - Soft drinks, whether carbonated or non-carbonated
+
+       - Fruit or vegetable drinks or juice blends containing less than 50 percent fruit or vegetable
+juice by volume with added caloric sweeteners.
+
+**8.1.2** The term “Sugar-Sweetened Beverages” **(SSBs) does NOT include:**
+
+       - Beverages containing milk, milk products, or milk substitutes (e.g., dairy, soy, rice
+beverages).
+
+       - 100% fruit or vegetable juices or juice blends.
+
+       - Beverages that are intended for medical or oral rehydration use.
+
+       - Sports or electrolyte-replacement drinks for rehydration use.
+
+       - Coffee, tea, coffee or tea beverages, breakfast shakes, protein or nutrition shakes, sports
+drinks, or meal replacement shakes.
+
+       - Plain carbonated or non-carbonated water with no flavor and no added caloric sweeteners
+(e.g., seltzer or sparkling water).
+
+       - Diet beverages (defined as non-alcoholic carbonated or non-carbonated beverages with
+non-caloric sweeteners and no added sugars or calories), including those specifically
+represented to enhance energy or alertness.
+
+       - Frozen treats (popsicles, sorbets, ice creams, etc.).
+
+Page **2** of **10**
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+**8.1.3** The term **“candy” includes** but is not limited to:
+Gelatin-based confections (gummies), licorice, hard candies, sugar, corn syrup, or high fructose
+corn syrup-based pieces, compressed candies (nerds, starbursts, airheads, etc.).
+
+**8.1.4** The term **“candy” does NOT include** :
+Chocolate products, protein or granola bars, fruit or nut based products, or items made or
+sweetened with natural, plant derived sweeteners (stevia, monk fruit, allulose, etc.), artificial
+sugars, or sugar replacements polyols (xylitol, erythritol, maltitol, sorbitol, etc.), etc.
+
+**9. Coordinated Nutrition Education and Retail Initiative Supporting the NHAP Demonstration**
+
+Upon waiver approval, the NHAP demonstration would be supported by six coordinated, statewide
+nutrition education and retailer-focused initiatives integrated through DSS SNAP-Ed project, Rethink
+Your Drink Nevada (RYDN). The RYDN project is administered through the University of Nevada,
+Reno Nutrition Program. RYDN has been implemented statewide for more than ten years and promotes
+healthier beverage choices among SNAP-eligible individuals and families through culturally relevant
+education, environmental supports, and community-based outreach. During FFY25, RYDN partnered
+with 43 food stores, 139 health care clinics and hospitals, and 11 WIC clinics statewide. The
+effectiveness of RYDN is evaluated using SNAP-Ed evaluation frameworks, with data collected through
+surveys and community feedback to support continuous quality improvement. The six proposed
+initiatives would collectively reinforce a coordinated public health and social services approach by
+aligning nutrition education, benefit maximization strategies, and retailer engagement to promote
+healthier alternatives to SSBs and candy. RYDN messaging and resources would be embedded across all
+initiatives, creating a unified and mutually reinforcing framework that supports informed purchasing
+decisions, improves access to eligible alternatives, and strengthens statewide implementation
+consistency. These initiatives use evidence-based approaches and have been refined, tested, and
+evaluated through more than a decade of implementation in Nevada through Nevada SNAP-Ed. They
+would leverage existing DSS infrastructure and public health and social services partnerships. Under this
+integrated approach, RYDN serves as the unifying framework across the following six initiatives, each
+of which reinforces the others through consistent messaging, branding, and nutrition education.
+
+**9.1** Statewide campaign – Rethink Your Drink Nevada
+
+A statewide RYDN public education and outreach campaign that raises awareness of healthier
+alternatives to SSBs and may incorporate complementary messaging on healthier alternatives to candy.
+This initiative would include promotion and access to updated nutrition educational resources relevant to
+the NHAP, consistent messaging, and guidance for DSS statewide public health and social services
+partners, community outreach events, and partner networks.
+
+**9.2** Promotion of Double Up Food Bucks
+
+Promotion and, if approved, expansion of Double Up Food Bucks (DUFB) with integrated RYDN
+messaging. This initiative would increase the visibility of DUFB incentives and incorporate RYDN
+nutrition education materials that encourage the use of fruits and vegetables as ingredients to prepare
+
+Page **3** of **10**
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+healthier alternatives to SSBs and candy. Subject to separate DSS internal approval, Nevada may expand
+retailer participation and adjust incentive structures to support healthier purchases.
+
+**9.3** Promotion of Farm to SNAP Households
+
+Promotion of Community Supported Agriculture (CSA) programs as part of the Farm to SNAP
+Households approach. In coordination with the Nevada Department of Agriculture and DSS, this
+initiative would promote local farms through CSA programs, vouchers, and EBT-authorized partners
+among SNAP households, increasing access to fresh produce as ingredients to prepare healthier
+alternatives to SSBs and candy with the support of RYDN healthy recipes and resources.
+
+**9.4** Marketing of Eligible Alternatives to SSBs and candy
+
+Marketing of eligible alternatives to SSBs and candy using RYDN-informed materials. This initiative
+would include educational signage, shelf tags, and promotional materials that highlight healthier
+beverage and food options in retail and community settings.
+
+**9.5** In-Store Incentives to Promote Healthier Alternatives to SSBs and candy
+
+In-store incentives designed to encourage the purchase of eligible alternatives to SSBs and candy would
+be offered through digital rewards, such as a downloadable RYDN healthy recipe book and, subject to
+separate DSS internal approval, EBT bonuses (e.g., spend $20, earn $2). Implementation may involve
+collaboration with the SNAP EBT vendor to automate rewards.
+
+**9.6** Retailer Recognition
+
+A retailer recognition initiative that acknowledges SNAP-authorized retailers for promoting healthier
+beverage and food choices consistent with RYDN messaging. Recognized retailers may receive program
+signage, public acknowledgment, and promotional materials that support a healthier retail food
+environment and reinforce consistent statewide nutrition education messaging.
+
+**10. SNAP-Authorized Retailers Considerations**
+
+The proposed NHAP Demonstration-2 would expand to statewide SNAP-authorized retailers in Nevada.
+As of December 2025, the state has approximately 2,065 authorized retailers, including both physical
+stores and online platforms (e.g., Amazon, Walmart). By February 1, 2028, the targeted implementation
+day, all retailers would be subject to the same purchase exclusions as described in Section 8 of this
+document. Under the proposed NHAP Demonstration-1, Nevada anticipates minimal disruption to
+retailer operations, as there is no existing federal mandate requiring retail food stores to participate in
+SNAP. Once FNS approves the proposed demonstration, DSS would assist retailers and retailer
+associations across Nevada to develop a plan that engages retailers of all sizes statewide and evaluate
+their needs to update their Purchase Point of Sale (POS) device or system. At a minimum, DSS would
+provide information and technical assistance to retailers to ensure that their POS devices are able to
+exclude SSBs and candy from SNAP eligible purchases and to answer questions regarding the
+demonstration project. Information would be provided on a dedicated website where an email address
+
+Page **4** of **10**
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+would be provided for retailers to submit questions and to request further technical assistance. Retailers
+would only be required to make minimal updates to their inventory management POS software to reflect
+the excluded food items outlined in section eight of this proposal, in alignment with existing protocols
+for managing ineligible items such as alcohol and tobacco. Technical assistance and training would be
+provided by DSS Nevada SNAP, SNAP-Ed, SNAP E&T, SNAP Outreach, SNAP Policy Program
+Integrity, and EBT Operations, in collaborations with DSS Public Information Officer, DSS public
+health and social services partners and USDA FNS to ensure consistent implementation through
+standardized retailer guidance, POS-based item blocking, and compliance monitoring processes.
+
+**11. SNAP – Household Considerations**
+
+Nevada’s proposed demonstration would apply to all SNAP households in Nevada, approximately
+257,618 households and 471,768 individuals as of September 2025. By the February 1, 2028 targeted
+implementation day, all SNAP recipients purchasing food in Nevada, across both urban and rural areas,
+would be subject to the same SSBs and candy exclusions, regardless of household size, demographics,
+or categorical eligibility. To support a smooth transition, a statewide communications plan would be
+launched one year prior to the targeted implementation day. Led by the SNAP, SNAP-Ed, and SNAP
+Outreach teams in collaboration with statewide partners, the NHAP demonstration would leverage
+existing DSS public health and social services networks to inform households, support and educate for
+successful compliance, and ensure uninterrupted access to benefits. This coordinated outreach effort
+would include statewide cohesive nutrition education campaign to educate SNAP participants about
+healthier alternatives to SSBs and candy and clearly communicate upcoming SNAP purchase changes,
+alternatives to changes and thereby reduce confusion and support seamless transition for all SNAP
+recipients. Nevada’s SNAP, SNAP-Ed, and SNAP Outreach teams would work closely with
+participating households, state agencies, authorized retailers, and community partners to communicate
+program changes and integrate the sugar-sweetened beverage and candy exclusions in full compliance
+with SNAP regulations. Additional details are provided in the attached NHAP – Communication Plan.
+
+**12. State Agency Considerations**
+
+**12.1** State-Level System Changes
+
+Nevada does not anticipate any changes to its eligibility system, the Automated Management and
+Processing System (AMPS), or to its EBT platform for this demonstration. Exclusions on sugarsweetened beverages (SSBs) and candy would be enforced at the retailer level using existing procedures
+already in place for blocking ineligible items such as alcohol and tobacco. Nevada would collaborate
+with FNS, it’s EBT vendor, and retailers to assess how current point-of-sale (POS) systems can support
+alignment between product coding and SNAP-eligible item lists. To ensure consistent implementation
+through standardized retailer guidance, POS-based item blocking, and compliance monitoring processes,
+SSBs and candy exclusions would also apply to Summer EBT participants. Nevada would coordinate
+closely with FNS and FIS Global to ensure all systems and retailer data are aligned, tested, and fully
+prepared for launch.
+
+Page **5** of **10**
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+**12.2** Compliance Plans
+
+Nevada would implement a comprehensive approach to ensure consistent retailer compliance with the
+proposed SNAP exclusions statewide. This includes leveraging public health partners and networks,
+Nevada SNAP, SNAP-Ed, SNAP E&T, SNAP Outreach, SNAP Policy Program Integrity, EBT
+Operations, DSS Public Information Officer teams and networks, and community partners to promote
+alternatives to SSBs and candy. Nevada would provide retailers with health-promotion materials aligned
+with the proposed exclusions, reinforcing both awareness and compliance. Additional details are
+provided in the attached NHAP – Compliance Plan.
+
+**12.3** Staff Capacity and Training
+
+Nevada would implement and monitor the proposed Nevada Healthy Access Project (NHAP)
+demonstration using existing staff and infrastructure, with no additional FTEs required. A designated
+NHAP demonstration team would include staff from Nevada SNAP, SNAP-Ed, SNAP E&T, SNAP
+Outreach, SNAP Policy Program Integrity, EBT Operations, DSS Public Information Officer teams to
+oversee implementation, compliance, system coordination, and public messaging. The team would select
+a NHAP coordinator/manager to serve as the primary contact for all NHAP activities and deliverables.
+Eligibility staff, call center representatives, and outreach partners would receive training through internal
+training material, covering waiver goals, restricted items, participant communication, evaluation
+indicators, and referral procedures.
+
+**13. Communication Plan**
+
+Nevada would implement a comprehensive, multi-phased communication and outreach strategy to
+ensure SNAP participants, newly eligible households, retailers, staff, and community partners are
+informed about the NHAP demonstration. Eligibility staff, call center representatives, and outreach
+partners would receive training through mandatory internal materials and established procedures. Publicfacing information would be provided through mailers, updates to the Notice of Eligibility, and a
+dedicated email address, phone line, and website to address questions from SNAP participants, retailers,
+and the public. Nevada would coordinate closely with retailers to provide technical assistance and
+implementation support and would share information with FNS prior to implementation regarding
+retailer readiness, including identification of retailers that have not completed required self-attestation
+forms or other compliance tools. Nevada would also coordinate with FNS on monitoring and
+compliance activities and incorporate applicable FNS monitoring and compliance policy updates into
+retailer communications. The communication strategy would be coordinated by the Nevada Division of
+Social Services (DSS) Public Information Officer, in collaboration with the DSS Eligibility and Payment
+Unit, and would leverage existing statewide public health and partner networks, including the Nevada
+Division of Public and Behavioral Health (HealNV), the Nevada State Nutrition Action Council, and
+DSS SNAP-Ed partners. Nevada would issue public announcements and press releases upon federal
+approval of the demonstration and again at least six months prior to the targeted implementation day.
+DSS would work with established partners, including statewide Healthy Eating Active Living initiatives,
+local health districts, SNAP-Ed implementing agencies, and community organizations—to disseminate
+consistent messaging through trusted networks, media outlets, digital platforms, and community events.
+Messaging would focus on the purpose and scope of the demonstration, promotion of healthier
+
+Page **6** of **10**
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+alternatives to sugar-sweetened beverages and candy, and clear timelines and expectations for SNAP
+participants and retailers. This coordinated approach is intended to support a smooth, well-informed
+transition throughout all phases of implementation. Additional details are provided in the attached
+NHAP – Communication Plan.
+
+**14. Timeline:**
+
+|Timelines|Key Activities|
+|---|---|
+|<br><br>OCT 2025 – DEC 2027|<br> <br> <br> <br> <br> <br> <br> <br> <br>SNAP-Ed amendment, waiver submission, public comments,<br>press releases, evaluation contracts, preparation for<br>communication and evaluation plans, trainings,<br>communication plan implementation, evaluation plan<br>implementation, and ongoing technical assistance.<br>|
+|<br> <br> AUG, NOV, DEC 2027, & JAN 2028<br>|<br> <br> <br> <br> <br> <br>Retailers will receive statewide notification of SSBs and<br>candy restrictions at six months, 90 days, 60 days, and 30<br>days prior to implementation (2/1/2028).<br>|
+|<br> <br>**FEB 1, 2028**<br>|<br> <br> <br> <br>**Targeted Implementation Day**<br>|
+|<br> <br> <br>JAN 2028 – MAR 2028<br>|<br> <br> <br> <br> <br>Technical assistance, data collection, outreach, and 3-month<br>evaluation preparation<br>|
+|<br>APR 2028 – JUN 2028|<br> <br> <br> <br> <br> <br>1st quarterly evaluation report, implement evaluation findings<br>and FNS recommendations, continued technical assistance<br>|
+|<br>JUL 2028 – DEC 2029|<br> <br> <br> <br> <br>Continued statewide implementation, quarter evaluations,<br>quarterly evaluations, ongoing TA, and adjustments based on<br>evaluation results.|
+
+**15. Justification for Request:**
+
+The State of Nevada is seeking federal approval to implement the NHAP demonstration, which aims to
+support nutrition security, mitigate chronic disease risk associated with sugar-sweetened beverage and
+candy consumption, and enhance the ability of SNAP households to purchase healthier foods. Aligned
+with the Food and Nutrition Act of 2008, the NHAP demonstration advances a coordinated public health
+and social services approach that integrates SNAP benefit maximization, nutrition education, and
+comprehensive retailer engagement. By intentionally bridging public health and social service systems,
+NHAP promotes healthier purchasing behaviors, improves access to healthy foods, and supports
+sustainable public health and social service outcomes for low-income households. This proposal
+responds to persistent public health challenges in Nevada. In 2023, the adult obesity rate was 30.8%,
+based on self-reported data, with significantly higher rates in rural and frontier counties (38.6%). Among
+youth, 33.5% of 4th and 7th grade students were classified as having obesity, based on mandated
+measured data. To better understand the health profile of the SNAP-eligible population, DSS analyzed
+data from the Nevada Department of Motor Vehicles (DMV). As of August 2024, over 800,000 Nevada
+residents were eligible for SNAP, Medicaid, and/or TANF benefits. Of these, 482,658 (54%) were
+eligible for SNAP. DSS matched individuals with state-issued identification cards or driver’s licenses
+and obtained body mass index (BMI) data for 231,832 SNAP participants. Of these individuals,
+approximately 142,410 (61%) met criteria for overweight or obesity based on BMI classification.
+
+Page **7** of **10**
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+Additionally, a substantial body of evidence links sugar-sweetened beverages (SSBs) consumption to
+metabolic and cardiovascular risk. Rapidly absorbable sugars in SSBs promote insulin resistance, liver
+fat accumulation, and elevated uric acid, mechanisms associated with type 2 diabetes, nonalcoholic fatty
+liver disease, and atherosclerosis. Reducing SSBs intake has been shown to improve insulin sensitivity,
+liver function, and lipid profiles, lowering chronic disease risk., Furthermore, excessive sugar intake,
+particularly from candy, also adversely affects oral health. The CDC identifies free sugars as a primary
+risk factor for dental caries, as frequent sugar exposure increases acid production by oral bacteria and
+accelerates enamel demineralization. Supporting this, a recent U.S. study of children aged 6–12 found
+that higher free sugar intake was significantly associated with increased prevalence of decayed, missing,
+and filled teeth, even after adjusting for sociodemographic factors. Together, these findings demonstrate
+that high consumption of added sugars from SSBs and candy contributes to both chronic disease and
+preventable oral health conditions. This evidence informed the design of the proposed NHAP
+demonstration, which targets modifiable dietary risk factors in the SNAP population to improve health
+outcomes and reduce long-term disease burden.
+
+**15.1** Improving SNAP Administration and Delivery
+
+NHAP demonstration enhances program efficiency by operationalizing the proposed exclusions entirely
+through existing retailer-level processes already used for alcohol and tobacco. No eligibility or EBT
+systems redesign is required. As part of the implementation, DSS would require all retailers in Nevada
+to submit attestations outlining the requirement to block the purchase of SSBs with SNAP benefits in
+their POS systems and to acknowledge compliance. This attestation would be required annually. This
+design minimizes administrative burden for both the state and retailers, streamlines oversight, and
+leverages established compliance tools (attestations, random spot checks, and automated file updates)
+without creating new layers of procedures.
+
+**15.2** Strengthening Healthy-Option Strategies
+
+The NHAP demonstration proposed to reinforce Nevada SNAP-Ed’s evidence based Rethink Your
+Drink Nevada (RYDN) nutrition education program, which has been in place for over ten years and is
+well established. Although the program is expected to lose NV SNAP-Ed funding after the end of
+FFY26, DSS is actively working with its staff to identify options to sustain key nutrition education
+efforts, partnerships, and resources to continue supporting implementation of this waiver. The proposed
+nutrition education, RYDN, to support the requested demonstration would integrates five
+complementary initiatives presented in section 8.2 of this document. By pairing the proposed exclusions
+with evidence based SNAP-Ed initiatives, Nevada proposed to shift SNAP purchasing toward fruits,
+vegetables, and alternatives to SSBs and candy while maintaining benefit value. SNAP households
+would receive consistent messaging from nutrition educators, eligibility staff, and retailers creating a
+feedback loop that aims to reinforce long-term behavior change towards SSBs and candy purchase with
+SNAP benefits.
+
+**15.3** Advancing Healthy Outcomes for SNAP Families
+
+Sugar-sweetened beverages (SSBs) and candy together account for more than 11 percent of total SNAP
+benefits, despite contributing calories primarily from added sugars rather than essential nutrients. SSBs
+
+Page **8** of **10**
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+alone represent the second-largest use of SNAP benefits, absorbing 9.3 percent ($608.7 million), which
+exceeds spending on fruits, milk, or vegetables; candy adds an additional 2.1 percent ($138.2 million).
+SSBs purchases alone surpass combined expenditures on core nutritional food groups such as fruits and
+milk, indicating that a substantial share of SNAP benefits is directed toward foods with limited
+nutritional value. Excluding SSBs and candy from SNAP eligible foods would directly reduce purchases
+of added sugars and support nutrition security by educating and helping SNAP households access
+alternatives to SSBs and candy. Furthermore, low-income households, who are disproportionately
+represented among SNAP participants, experience higher rates of diet-related chronic disease,
+highlighting the importance of aligning SNAP benefits with dietary needs. By redirecting SNAP benefit
+use toward foods that support health, the NHAP demonstration strengthens nutrition security and
+advances federal and state public-health priorities, including Healthy Eating, Active Living (HEAL)
+goals. Integration of education and incentive components with existing Nevada SNAP-Ed infrastructure
+further ensures efficient use of federal and state resources without duplicating efforts.
+
+**16. Evaluation Plan**
+
+Nevada will evaluate the Nevada Healthy Access Project (NHAP) demonstration using a mixed-methods
+approach consistent with USDA Food and Nutrition Service (FNS) guidance and modeled on the FNS
+evaluation plan example. The evaluation is designed to assess changes in SNAP purchasing behavior,
+retailer compliance and operations, participant awareness and experience, and overall administrative
+implementation following the exclusion of sugar-sweetened beverages (SSBs) and candy from SNAPeligible purchases.
+
+Primary quantitative analyses will rely on available SNAP transaction and redemption data provided by
+Nevada’s EBT vendor, including aggregate redemption trends and out-of-state transaction reports.
+Where item-level data are available, Nevada will assess changes in purchasing patterns related to
+restricted items and eligible alternatives. Qualitative and supplemental quantitative data will be collected
+through coordinated SNAP participant and SNAP-authorized retailer surveys administered at baseline
+and at multiple points following implementation, as well as through ongoing monitoring of complaints,
+inquiries, and technical assistance needs.
+
+Evaluation success will be assessed through key indicators, including reductions in SNAP purchases of
+SSBs and candy, increased purchases of eligible beverage and food alternatives, consistent and accurate
+retailer implementation, and improved participant awareness and understanding of allowable SNAP
+purchases. Nevada will also monitor for unintended consequences, including potential cross-border
+shopping behavior and operational impacts on retailers.
+
+Evaluation activities will be led by DSS, in coordination with staff from Nevada SNAP, SNAP-Ed,
+SNAP E&T, SNAP Outreach, SNAP Policy Program Integrity, EBT Operations, DSS Public
+Information Officer teams and evaluation vendors. Findings will be summarized in quarterly and annual
+evaluation updates and submitted to FNS in accordance with federal reporting requirements. Evaluation
+results will be used to inform ongoing technical assistance, compliance strategies, nutrition education
+efforts, and future policy decisions related to the demonstration.
+
+Page **9** of **10**
+
+**Nevada Healthy Access Project (NHAP) – Demonstration-1 Waiver Request**
+
+**17. Proposed Implementation Date**
+
+February 1, 2028, following FNS approval.
+
+**18. Anticipated Demonstration Costs**
+
+Nevada anticipates costs to implement the NHAP demonstration. While the State would reallocate
+limited FFY25 SNAP-Ed funds to provide initial support for the requested demonstration efforts,
+additional funding would be needed to fully support the requested demonstration’s evaluation plan and
+nutrition education support beyond 9/30/2026. The proposed NHAP demonstration budget for the twoyear implementation period is as follows:
+
+|Timeline|Evaluation<br>Support|Nutrition Education<br>Support|
+|---|---|---|
+|<br> <br> <br> <br> <br> <br> <br>October 2026 – December 2027<br>|<br> <br> <br><br>$200,000.00<br>|<br> <br> <br><br>$800,000.00<br>|
+|<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>January 2028 – December 2028, Implementation Year 1<br>|<br> <br> <br><br>$200,000.00<br>|<br> <br> <br><br>$800,000.00<br>|
+|<br> <br> <br> <br> <br> <br> <br> <br>January 2029 – December 2029, Implementation Year 2|<br> <br><br>$200,000.00|<br> <br><br>$800,000.00|
+
+**19. Anticipated Expiration Date**
+
+Two years from the FNS-approved implementation date.
+
+**20. Signatures**
+
+Name: Robert H. Thompson, Administrator
+Email: rthompson@dss.nv.gov
+Telephone: 775-684-0504
+
+Robert H. Thompson, Administrator
+
+rthompson@dss.nv.gov
+
+775-684-0504
+
+Signature of FNS Regional Office Contact:
+Name:
+Email:
+Telephone:
+
+Page **10** of **10**

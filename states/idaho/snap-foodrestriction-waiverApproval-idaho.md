@@ -1,0 +1,375 @@
+# snap-foodrestriction-waiverApproval-idaho.pdf
+
+**Source:** https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverApproval-idaho.pdf
+
+---
+
+Washington, D.C. 20250
+
+June 10, 2025
+
+The Honorable Brad Little Alex J. Adams
+
+Governor of Idaho Director
+
+Office of the Governor/State Capitol Idaho Department of Health and Welfare
+700 W. Jefferson Street #228 450 W. State Street
+
+Boise, ID 83720 Boise, ID 83720
+
+Dear Governor Little:
+
+The Food and Nutrition Service (FNS) is pleased to approve the request dated May 16, 2025, from
+the Idaho Department of Health and Welfare to allow the State to operate a novel demonstration
+project to amend the statutory definition of food for purchase by Supplemental Nutrition Assistance
+Program (SNAP) recipients from “any food or food product for home consumption” to exclude
+“soda” and “candy.” This approval, subject to the enclosed terms and conditions, is for 2 years,
+effective January 1, 2026.
+
+Due to the novel design of the Project, FNS is committed to carefully and comprehensively
+evaluating how waiving the State’s definition of food in this way impacts SNAP participants and
+retailers. FNS will carefully review the results of the Project, based on the evaluation data provided
+by the State and other available information.
+
+FNS will continue to collaborate with the State and its evaluation contractor to finalize data
+collection points, define key metrics, and outline any necessary data analysis for the quarterly
+evaluation reports as well as finalize key implementation parameters such as a threshold standard for
+retailers.
+
+Please submit written acceptance of this approval and the terms and conditions signed by the
+appropriate State official. Attach this acceptance letter to a chatter post in WIMS case # 00012882.
+Please tag the relevant Regional and National staff listed in the WIMS case team using the @ sign
+when uploading this document.
+
+FNS appreciates the State’s willingness to test innovative approaches to support healthy choices and
+
+healthy outcomes to best serve SNAP participants. FNS is committed to working with the State to
+obtain robust data to inform ways to improve nutrition assistance programs.
+
+ollins
+U.S. Department of Agriculture
+
+Enclosures
+**WAIVER SUMMARY**
+**IDAHO SNAP FOOD RESTRICTION WAIVER DEMONSTRATION PROJECT**
+
+_The Idaho SNAP Food Restriction Waiver Demonstration Project (the Project) is approved in_
+_accordance with the requirements to operate demonstration projects under Section 17 [7 U.S.C._
+_2026] (b)(l )(B)(i), and Section 17 [7 U.S.C. 2026] (b)( 1 )(B)(ii) of_ _the Food and Nutrition Act of_
+_2008, as amended (the Act)._
+
+**WAIVERS OF THE ACT:** Section 3(k)( l) of the Act defines "Food" for SNAP as "any food or
+food product for home consumption ... " The definition goes on to define items excepted from
+this definition. These "except[ed]" items cannot be purchased with SNAP benefits.
+
+FNS is waiving this section to allow the State to modify the list of items that can be excepted
+from the definition of "food" items. Items that are not defined as "food" cannot be purchased
+with SNAP benefits at SNAP-authorized retailers in Idaho. Specifically, the State amends the
+definition's language of "any food or food product for home consumption except .. . " to include
+as an exception, and therefore be ineligible for purchase with **SNAP,** "soda" and "candy."
+Idaho's definition of "soda" and "candy" is the following passed on the state legislature.
+"Candy" is any preparations of sugar, honey, or other sweeteners in combination with
+chocolates, fruit, nuts, or other ingredients in the form of bars, drops, or pieces. This definition
+does not include those items containing flour or requiring refrigeration. "Soda" is any
+nonalcoholic beverages containing sweeteners, excluding drinks with milk or milk substitutes,
+beverages with more than 50% juice, and products that require preparation before consumption.
+
+**WAIVERS OF SNAP REGULATIONS:** 7 CFR 271.2 defines "Eligible foods" for SNAP as
+"any food or food product intended for human consumption ... " The definition goes on to define
+items excepted from this definition. These "except[ed]" items cannot be purchased with **SNAP**
+benefits.
+
+**FNS** is waiving this provision of the regulations to allow the State to modify the list of items that
+can be excepted from the definition of "Eligible foods". Items that are not defined as "Eligible
+foods" cannot be purchased with **SNAP** benefits at SNAP-authorized retailers in Idaho.
+Specifically, the State amends the definition's language of "any food or food product intended
+for human consumption except. .. " to include as an exception, and therefore be ineligible for
+purchase with SNAP, "soda" and "candy." Idaho's definition of "soda" and "candy" is the
+following passed on the state legislature. "Candy" is any preparations of sugar, honey, or other
+sweeteners in combination with chocolates, fruit, nuts, or other ingredients in the form of bars,
+drops, or pieces. This definition does not include those items containing flour or requiring
+refrigeration. "Soda" is any nonalcoholic beverages containing sweeteners, excluding drinks with
+milk or milk substitutes, beverages with more than 50% juice, and products that require
+preparation before consumption. The State will communicate this change to all existing and
+newly authorized **SNAP** households and retailers during the Project.
+
+Page3of8
+
+**IMPLEMENTATION**
+
+Eligibility: This Project will apply to the entire Idaho SNAP population ( I 00 percent of the
+SNAP caseload). As part of its implementation strategy, Idaho may explore a small-scale pilot
+program targeting a limited group of SNAP households before expanding restrictions to all
+recipients. This phased approach would allow the State to assess the demonstration's impact on
+customers. If the State continues with this pilot the broader rollout of restrictions for all SNAP
+households will begin six months after the pilot's initiation.
+
+Opt-Out: No SNAP household in Idaho may opt out of the SNAP eligible food restrictions
+project. The purpose of the Project is to evaluate the impact of excluding soda and candy from
+eligible purchases under SNAP on participants' consumption of these products. The State's
+SNAP-Ed program will be used to develop and implement education programming and
+evaluation to change SNAP and SNAP-eligible individuals' behavior on the consumption of
+products restricted with a high levels of sugar content. Participation in the SNAP-Ed program is
+voluntary, and any household may opt into or out of the SNAP-Ed program and any corresponding
+evaluation tools, such as surveys, interviews, or dietary recalls.
+
+Alternative Procedures: Idaho's proposed alternative procedure is to modify the list of items that
+can be excepted from the definition of "Eligible foods". Items that are not defined as "Eligible
+
+foods" cannot be purchased with SNAP benefits at SNAP authorized retailers in Idaho. Idaho
+specifically will include as an exception, and ineligible for purchase with SNAP, "soda" and
+"candy." Idaho's definition of "soda" and "candy" is the following passed on the state
+legislature. "Candy" is any preparations of sugar, honey, or other sweeteners in combination with
+chocolates, fruit, nuts, or other ingredients in the form of bars, drops, or pieces. This definition
+does not include those items containing flour or requiring refrigeration. "Soda" is any
+nonalcoholic beverages containing sweeteners, excluding drinks with milk or milk substitutes,
+heverages with more than 509/ juice, and products that require preparation before consumption.
+
+Idaho's proposed alternative procedures make no changes to the provisions that allow certain
+populations of **SNAP** recipients to purchase prepared meals from appropriate facilities like
+senior centers, domestic violence centers, substance misuse centers, and homeless shelters or to
+universally banned products. FNS also recognizes that the State is not seeking to propose
+alternative procedures to ban SNAP products such as alcoholic beverages, tobacco, or hot foods,
+or hot food products ready for immediate consumption.
+
+**TERMS AND CONDITIONS**
+
+Prior to the Project's implementation date, January 1, 2026, the State must meet all terms and
+conditions listed below. If the State cannot meet these terms and conditions in full, the Project's
+implementation date must be delayed. After Project implementation, the State may request at
+any time to revise the Project's scope by submitting revisions for FNS consideration and
+approval. Any changes must be agreed upon by the State and FNS prior to implementation.
+- FNS authorizes Idaho to operate the Demonstration Project to waive the definition of
+"food and food products" (the Project) for a period of 2 years from the Project's start
+date. The Project will begin on January 1, 2026, and end on December 31, 2027, with the
+option to request three annual extensions thereafter for a total Project period not to
+exceed 5 years. The State will operate this Project statewide.
+
+- If the State is unable to implement on January 1, 2026, the State will communicate a new
+implementation date, and FNS will update the terms and conditions and evaluation
+schedule accordingly. Moreover, any changes the State wishes to make to their Project
+(including, but not limited to, Project design, target populations, evaluation procedures,
+compliance plans, and communication plans) following implementation should be shared
+with FNS for review and sign-off prior to implementing them.
+
+- The Project may not in any way impede inter-operability of SNAP program benefits, as
+detailed in 7 CFR 274.8(b)(l0).
+
+- Clients' out of State transactions will not be used as a primary indicator of fraud or
+negatively impact **SNAP** eligibility for the household.
+
+- The State will provide a finalized communications plan detailing tasks and timelines for
+engaging with and notifying SNAP-authorized retailers of the Project.
+
+    - The State will update their SNAP webpage to provide information about the
+Project for SNAP-authorized retailers.
+
+    - The State must provide a designated centralized communication resource, to serve
+as a point of contact for retailers and to route inquiries FNS receives from the
+Retailer Service Center. For example, this resource could be a public email inbox
+or dedicated call center line.
+
+- The State will provide a finalized communications plan detailing tasks and timelines for
+notifying and educating SNAP households of the Project.
+
+    - The State will update their SNAP webpage to provide information about the
+Project for SNAP households.
+
+- The State will provide a finalized evaluation plan defining Project health outcomes and
+behaviors tracked throughout the Project.
+
+    - The evaluation plan must detail how the State will mitigate **SNAP** client reporting
+bias for any Project data collection methods.
+
+    - The evaluation plan will define Project success (i.e., reduction of
+diseases/illnesses, changes in behaviors, increased nutrition knowledge).
+
+    - The evaluation plan must describe in detail all data points and metrics that the
+
+Page S of 8
+
+State will be collecting, aside from those listed in these terms and conditions, and
+how they will be analyzed.
+
+- If the evaluation plan requires creating, updating, or amending existing contracts between
+the State and another entity (including, but not limited to, University of Idaho, SNAP-Ed
+contract, or EBT vendor contract) the State will provide FNS copies of the completed
+contracts.
+
+- The State will provide a finalized proposed budget for the Project.
+
+     - Subsequent to the finalized budget the State will submit quarterly costs to FNS
+throughout the duration of the Project.
+
+- The State will provide a finalized compliance and monitoring plan for SNAP-authorized
+retailers.
+
+    - As part of the compliance plan prior to Project implementation, the State will
+have SNAP authorized retailers confirm Project compliance. For example,
+retailers may complete and return a self-attestation compliance form for the
+Project.
+
+    - SNAP-authorized retailers arc solely responsible for managing Project
+compliance with third party e-commerce platforms. Third party e-commerce
+providers will nol he held liahlc or rcsponsihle for managing project compliance.
+
+    - As part of the compliance plan, the Stale will have a method for notifying SNAP­
+authorized retailers that are not in compliance with the Project. For example, the
+State may send a compliance warning letter to retailers. Compliance warnings and
+other procedures will adhere to 7 CFR Part 278.
+
+- FNS reserves the right to withdraw its waiver approval and terminate the Project at any
+time if FNS determines that the Project is inconsistent with SNAP goals to increase the
+efficiency of the Program and to improve the delivery of SNAP benefits to raise levels of
+nutrition among low-income individuals.
+
+- Continued approval of the Project is contingent upon the results of the ongoing Project
+evaluation. This Project may be extended in yearly increments for an additional 3 years,
+for a total of 5 years, provided that the State and FNS agree upon additional evaluative
+measures prior to renewal so that FNS can continue to assess this demonstration
+Project's impact. Any request for extension must be submitted by June 30, 2027, at
+least 6 months prior to the end of the initial 2-year Project period.
+
+- If any Federal laws regarding this Project change during the approved period, the State
+will submit a modification request to FNS to ensure the Project's terms and conditions
+reflect current Federal law. FNS will review and approve the modification in
+accordance with section l 7(b )( l )(D) of the Food and Nutrition Act of 2008, as
+amended.
+
+- SNAP participants' surveys, at a minimum, will collect the following information:
+
+    - Meals and foods eaten outside the home or with foods not purchased at SNAP­
+authorized retailers.
+
+    - Purchase and/or consumption of less healthy or "unhealthy" food items not
+restricted by the Project.
+
+    - Non-SNAP dollars spent to purchase food items restricted by the Project.
+
+    - SNAP client's ability and confidence in correctly identifying food items that
+can or cannot be purchased with SNAP benefits during the Project.
+
+    - The point in time in which the SNAP client became aware of the Project and
+how (State SNAP webpage, retail store signage, State press release, etc.).
+
+    - Any impacts the Project potentially had on participants shopping routines
+(such as distance traveled to store, increase spending of non-SNAP dollars,
+more frequent shopping trips, etc.).
+
+- The State will provide FNS with quarterly reports using the evaluation reporting
+template FNS will provide to the State in **WIMS** based upon finalized data
+collection points, defined key metrics, and data analysis. The quarterly
+evaluation report template at a minimum will include:
+
+- Baseline and monthly data collection for out of State transactions for all
+States that border Idaho.
+
+- Baseline and total monthly amount of **SNAP** dollars spent out of State.
+
+- Total monthly amount of **SNAP** client hearings filed related to the
+Project.
+
+- SNAP-Ed programming data:
+
+1. Quarterly number of cohorts participating in the Project
+11. Number of individuals in each cohort
+
+111. Monthly attrition rates for each cohort
+1v. Reporting on any SNAP-Ed evaluation framework or indicators
+used with each cohort
+
+- Monthly total number of SNAP-authorized retailer Project compliments
+and complaints received and a qualitative summary.
+
+- Monthly total number of **SNAP** households Project compliments and
+complaints received and a qualitative summary.
+
+- Monthly total number of Project compliments and complaints from
+advocacy, community, or retailer association groups and a qualitative
+summary.
+
+- Whenever possible, partner with retailers to collect baseline and
+monthly retailer data on **SNAP** shopping cart transaction data.
+
+- The State will participate in routine calls with FNS ahead of the Project
+implementation.
+
+    - Frequency and scheduling of the calls will be set following consultation
+between the State and FNS.
+
+    - FNS will provide the State with a proposed agenda for each call.
+
+Page **7** **of** **8**
+
+FNS is available and willing to provide technical assistance on all components of the Project,
+including but not limited to communication plans, evaluation strategies, budgets, and a
+compliance framework. However, all final decisions regarding the development and
+implementation of the Project materials and plans reside solely with the State. FNS will serve in
+an advisory capacity and will not provide final approval on Project materials.
+
+**REQUEST FOR AN EXTENSION**
+
+If the State would like to continue the Project beyond December 31, 2027, the State should send
+a request to FNS by June 30, 2027, six months before the Project's two-year period expiration.
+The extension request letter must include a summary of progress to date, including data from the
+time between the last quarterly report and the extension request.
+
+**EVALUATION**
+
+The State must provide FNS with a report for each quarter of the Project during the
+first year of implementation. The quarterly report will be segmented into monthly
+sections. Reports are due 45 days after the end of each reporting period. Thereafter,
+based on the results of the first year quarterly reports the State and FNS will discuss
+the potential to shift to an annual reporting schedule.
+
+**Idaho Project Reporting Schedule**
+
+|REPORT|DAT A RANGE COVERED|DUE DATE|
+|---|---|---|
+|<br>Y car I, Quarter I<br> <br>|<br>Uanuary I, 2026-March 31, 2026<br>|<br>May15, 2026<br>|
+|<br> <br>Y car I, Quarter 2<br> <br>|<br>AprilI,2026-Junc 30, 2026<br>|<br>August14,2026<br>|
+|<br>Year l, Qumter 3<br> <br>|<br>UulyI,2026-September 30, 2026<br>|<br>November16,2026<br>|
+|<br> <br>Year1,Quarter 4<br> <br>|<br>October1,2026-December 31, 2026<br>|<br>February15,2027<br>|
+|<br>Year 2, Quarter 1<br> <br>|<br>Uanuary1,2027-March 31, 2027<br>|<br>May17,2027<br>|
+|<br> <br>Year 2, Quarter 2<br>|<br>April1,2027-June 30, 2027<br>|<br>August 16, 2027<br>|
+|<br>Year 2, Quarter 3<br>|<br>July1,2027-September 30, 2027<br>|<br>November 15, 2027<br>|
+|<br>Year 2, Quarter 4<br>|<br>October**1,**2027-December 31, 2027<br>|<br>February 14, 2028|
+|<br>Extension Request|<br>Submitted by July31, 2027|<br>Submitted by July31, 2027|
+
+To evaluate the Project the State will undertake a mixed-methods approach, and activities will
+include tracking and analyzing SNAP households and SNAP-Ed program participation and an
+assessment of participant changes to behavior and health outcomes. The State will also
+evaluate retailer participation, such as feedback relating to concerns, barriers and outcomes of
+Project.
+
+The purpose of the Project is to evaluate the impact of excluding soda and candy from eligible
+purchases under SNAP on participants' consumption of these products. As part of the evaluation
+of the Project the State is exploring collaboration with retailers to obtain EBT redemption data to
+identify SNAP purchasing behaviors. Idaho is also exploring the option to use Medicaid data to
+analyze health conditions commonly associated with dietary choices. The State's SNAP-Ed
+
+Page **8** **of** **8**
+
+program will be used to develop and implement education programming and evaluation to
+change SNAP and SNAP-eligible individuals' behavior on the consumption of products
+restricted with a high levels of sugar content. Pilot evaluation components related to the State's
+SNAP-Ed program may include surveys, food logging, or dietary recalls.
+
+Based on previous and ongoing technical assistance calls with FNS and the proposed
+evaluation partners, the State may revise its evaluation plan subsequent to this approval. Any
+updates or revisions to the State's evaluation plan needs to be communicated to FNS.
+
+_Evaluation Components_
+
+The State's quarterly and annual reports must include the following:
+
+1. Executive Summary/Methodology: Summary describing methods of data
+collection and analysis and the quarter and month(s) covered by the report.
+2. Any administrative costs associated with the Project.
+3. Various qualitative and quantitative data points, defined metrics, and analytical
+approaches aligned with the Project's objectives related to health and health
+behavior change outcomes.
+
+**Please note:** When submitting reports to FNS, do not include any SNAP clients' Personally
+Identifiable Information (PII). FNS reserves the right to add additional data fields in consultation
+with the State for reporting purposes.

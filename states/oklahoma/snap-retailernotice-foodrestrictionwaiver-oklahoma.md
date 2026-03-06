@@ -1,0 +1,35 @@
+# snap-retailernotice-foodrestrictionwaiver-oklahoma.pdf
+
+**Source:** https://www.fns.usda.gov/sites/default/files/resource-files/snap-retailernotice-foodrestrictionwaiver-oklahoma.pdf
+
+---
+
+**Beginning February 15, 2026, Oklahoma SNAP retailers cannot accept SNAP EBT payments for soft drinks or candy.**
+
+“Soft drinks” means any beverage marketed or sold as a soda, soft drink, sports drink, energy drink, flavored water,
+or juice drink containing less than 100% juice. This includes colas, sodas, teas, punches, lemonades, sports or energy
+beverages, flavored waters, and fruit drinks that are not 100% juice. Soft drinks do not include: milk or milk
+substitutes, plain coffee in any form (beans, ground, instant, brewed), plain bottled water, 100% fruit juice, or
+beverages prepared at home.
+
+“Candy” means any product marketed or sold as candy, including but not limited to chocolate bars, gummies,
+caramels, taffy, licorice, mints, chewing gum, or similar confections such as candy bars or any products with wafers,
+cookies, or flour components. Candy also includes non-bakery items that are dipped, coated, or covered in chocolate,
+yogurt, or other candy coating.
+
+You will need to comply with these changes. **If you do not comply, FNS may withdraw your SNAP**
+**authorization, and you will no longer be able to accept SNAP EBT.**
+
+For more information on Oklahoma’s SNAP Food Restrictions, please visit the Oklahoma Department of Human
+Services’ [SNAP Retailer webpage.](https://oklahoma.gov/okdhs/ebt/retailers.html#accordion-8e1f6ebc19-item-74c8175678)
+
+[If you have questions, please contact ebtsnap@okdhs.org.](mailto:ebtsnap@okdhs.org)
+
+To learn more, please review the [Oklahoma SNAP Food Restricton Waiver.](https://www.fns.usda.gov/snap/waivers/foodrestriction/oklahoma) For a complete list of states
+implementing similar changes, visit USDA's [SNAP Food Restricton Waivers.](https://www.fns.usda.gov/snap/waivers/foodrestriction)
+
+## **Follow USDA and FNS on social media!**
+
+For more information visit USDA’s [SNAP Retailer Webpage.](https://www.fns.usda.gov/snap/retailer)
+
+USDA is an equal opportunity provider, employer, and lender.                                   January 2026

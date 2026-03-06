@@ -5,6 +5,8 @@ Scraped data from the [USDA FNS SNAP Food Restriction Waivers](https://www.fns.u
 ## Quick Start
 
 ```bash
+brew install tesseract  # macOS (or apt install tesseract-ocr on Linux)
+
 git clone <repo-url>
 cd waivers
 
@@ -24,7 +26,7 @@ python3 scrape.py --full
 This runs the full pipeline:
 
 1. **`scrape.py`** -- Scrapes the USDA FNS index page, discovers all states with approved waivers, downloads each state's approval letter and PDF enclosures
-2. **`extract.py`** -- Extracts machine-readable text from each PDF
+2. **`extract.py`** -- Extracts markdown from each PDF (pymupdf4llm with Tesseract OCR fallback)
 3. **`build_context.py`** -- Generates `all_waivers.md`, a single consolidated file with all waiver data
 
 New states are automatically discovered from the index page -- no code changes needed.
@@ -33,7 +35,7 @@ You can also run each step individually:
 
 ```bash
 python3 scrape.py          # Scrape pages and download PDFs only
-python3 extract.py         # Extract text from PDFs and re-extract letters
+python3 extract.py         # Extract markdown from PDFs and re-extract letters
 python3 build_context.py   # Rebuild all_waivers.md
 ```
 
@@ -45,11 +47,11 @@ states/
     metadata.json       # Structured data: state name, URLs, implementation date, summary, enclosure list
     letter.md           # Approval letter text from the state's page on fns.usda.gov
     *.pdf               # Original PDF enclosures (approval docs, terms & conditions, waiver requests)
-    *.txt               # Machine-readable text extracted from each PDF
+    *.md                # Markdown extracted from each PDF (pymupdf4llm + OCR fallback)
 summary.json            # All states' metadata in one file
 all_waivers.md          # Consolidated markdown with all waiver data
 scrape.py               # Scraper (auto-discovers states from USDA FNS index page)
-extract.py              # PDF text extraction
+extract.py              # PDF markdown extraction (pymupdf4llm + Tesseract OCR fallback)
 build_context.py        # Generates all_waivers.md
 ```
 
@@ -106,13 +108,14 @@ build_context.py        # Generates all_waivers.md
 ### letter.md (per state)
 The approval letter from USDA Secretary Brooke L. Rollins to the state governor, including the terms of approval.
 
-### *.txt (extracted PDF text)
-Plain text extracted from each PDF for full-text search and AI analysis. Includes page markers.
+### *.md (extracted PDF markdown)
+Markdown extracted from each PDF using pymupdf4llm, with Tesseract OCR fallback for pages with garbled text (e.g., USDA seal images). Preserves headers, bold, lists, and tables.
 
 ## Requirements
 
 - Python 3.10+
-- Dependencies: `beautifulsoup4`, `requests`, `pymupdf` (see `requirements.txt`)
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) — `brew install tesseract` (macOS) or `apt install tesseract-ocr` (Debian/Ubuntu)
+- Python dependencies: `pip install -r requirements.txt` (`beautifulsoup4`, `requests`, `pymupdf`, `pymupdf4llm`, `pytesseract`, `Pillow`)
 
 ## Source
 

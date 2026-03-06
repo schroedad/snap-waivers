@@ -1,0 +1,122 @@
+# snap-foodrestriction-waiverRequest-arkansas.pdf
+
+**Source:** https://www.fns.usda.gov/sites/default/files/resource-files/snap-foodrestriction-waiverRequest-arkansas.pdf
+
+---
+
+**REQUEST FOR THE SECRETARY OF THE U.S. DEPARTMENT OF AGRICULTURE (USDA) TO PILOT**
+**PROJECTS MEANT TO IMPROVE NUTRITION AND HEALTH UNDER THE SUPPLEMENTAL**
+**NUTRITION ASSISTANCE PROGRAM**
+
+April 15, 2025
+
+1. **Type of Request:** To operate a project modifying eligible foods under the Supplemental
+Nutrition Assistance Program (SNAP) and support improved health outcomes.
+
+2. **Statutory Citation:** 7 U.S. Code § 2026(b)
+
+3. **Primary Regulation Citation:** 7 CFR § 282.1
+
+4. **State:** Arkansas
+
+5. **Statutory and Regulatory Requirements to be Waived:** 7 U.S. Code § 2012(k) and 7 CFR
+§ 271.2
+
+6. **Proposed Alternative Procedure:** The State of Arkansas and the Arkansas Department of
+Human Services is requesting to exercise Section 17 of the Food and Nutrition Act of 2008
+to modify the definition of both eligible and ineligible foods under the Supplemental
+Nutrition Assistance Program (SNAP).
+
+Arkansas will exclude from the definition of eligible foods the following non-staple food
+and beverage items: soda, low and no-calorie soda, fruit and vegetable drinks with less
+than 50% natural juice, unhealthy drinks, and candy. The candy exclusion will extend to
+confectionary products with flour and artificially sweetened candy. The exclusion will not
+extend to flavored water, carbonated flavored water, and sports drinks.
+
+This request aligns with Section 17, 7 U.S. Code § 2026, permitting states to conduct
+projects on a trial basis to conform the goals of Arkansas with the goal of SNAP—to
+provide food assistance, alleviate food insecurity, and promote nutrition among lowincome individuals.
+
+7. **Justification for Request:** The “N” in SNAP stands for “Nutrition.” And the Declaration of
+Policy in the Food and Nutrition Act of 2008 (P.L. 88-525, as amended via P.L. 118-5)
+emphasizes nutrition and health.
+
+Unfortunately, this “Nutrition Assistance” program is undermining the health of millions of
+Americans by encouraging families to eat highly processed, unhealthy drinks and candy.
+
+In fact, soda, unhealthy snacks, candy, and dessert account for nearly 23 percent, or $27
+billion, of all SNAP purchases. 0F [1] Given the known relationship between junk food and poor
+health, our federal food assistance policies are fueling obesity, diabetes, heart disease,
+hypertension, and a wide range of chronic health conditions in Arkansas and across
+America.
+
+1 Edwards, Chris. “SNAP: High Costs, Low Nutrition.” Cato Institute. 1 Sept. 2023, https://www.cato.org/briefingpaper/snap-high-costs-low-nutrition.
+
+More than one-third of Arkansans have diabetes or pre-diabetes, and Arkansas has the
+second-highest diabetes mortality rate in the country. 1F [2] Forty percent of the state struggles
+with obesity. 2F [3] Chronic health problems disproportionately impact low-income families, the
+same people who rely on SNAP for food. In fact, the Arkansas Medicaid program spends
+at least $300 million annually on chronic conditions.
+
+The time has come to reform SNAP and empower low-income Americans with tools to live
+healthier, longer lives. One study from Stanford found that excluding sugary drinks like
+soda from food stamps could prevent obesity in 141,000 kids and Type 2 diabetes in
+240,000 adults nationally. 3F [4] Food stamp reform that restricts soda, unhealthy drinks, and
+candy is a commonsense first step to Make America Healthy Again.
+
+President Trump is the first President to make tackling America’s chronic disease epidemic
+a priority and Arkansas is proud to stand by his side in that effort.
+
+**Implementation of Request:** The mission of SNAP, as outlined in the Food and Nutrition
+Act of 2008 Declaration of Policy, is to raise “levels of nutrition among low-income
+households.” The State’s mission is to promote healthier food and beverage purchases and
+reduce food and beverage purchases that perpetuate chronic health conditions. These
+goals and this policy align.
+
+The State will use the GS1 US framework to define ineligible foods. After evaluating
+alternative options, including the Streamlined Sales Tax definitions and a range of
+alternative definitions for food and beverages, the State believes GS1 US provides the
+best definitional framework to operationalize reforms, support beneficiaries, ensure
+compliance, and collaborate with both manufacturers and retailers.
+
+The State will also reform its existing SNAP Education funding to promote protein-rich
+foods, including Arkansas-grown and harvested poultry, eggs, beef, pecans, peanuts, soy,
+strawberries, sweet potatoes, rice, peaches, oats, and more. The State also proposes to
+distribute SNAP Education nutrition program funding directly to schools, food banks, and
+other community agencies so they can distribute healthy foods such as fruits and
+vegetables to families and provide education and outreach about healthy food choices.
+
+Nutrition education is crucial. It should be conducted in school settings as part of school
+curricula and overseen by the Arkansas Department of Education, in partnership with the
+Arkansas Department of Agriculture and the Farm to School Program. This plan would
+improve access to healthy foods, connect students and families with hands-on education on
+
+2 National Center for Health Statistics. “Diabetes Mortality by State.” CDC, 1 Mar. 2022,
+3 Montgomery, Elizabeth. “Report: 40% of Arkansas Adults Obese.” ACHI, Sept. 12, 2024,
+4 Basu, S., Seligman, H. K., Gardner, C., & Bhattacharya, J. (2014). Ending SNAP subsidies for sugar-sweetened
+beverages could reduce obesity and type 2 diabetes. _Health Affairs_, _33_ (6), 1032-1039.
+
+the topics of food, nutrition, and agriculture, and streamline administratively burdensome
+SNAP Education programming and reporting requirements. If a waiver is required for
+approval to distribute SNAP Education funding differently, the State of Arkansas requests
+technical assistance to pursue this approach.
+
+8. **Anticipated Impact on Households:** The state will not modify benefit allotments or
+eligibility parameters. The state will communicate program changes to beneficiaries and
+impacted households. No increased benefit costs are anticipated. There is no federal
+mandate for retailers to participate in the program and accept SNAP benefits. It is a
+voluntary program for retailers.
+
+9. **Proposed Implementation Date:** Upon technical assistance review and approval, on July
+1, 2026.
+
+10. **Time Period of Request:** 5 years.
+
+11. **Proposed Evaluation of Request:** The state will conduct program evaluations based on
+retailer data to assess the waiver’s impact on positive eating and spending habits.
+
+12. **Comment Period:** Upon submission to FNS today, DHS intends to post this proposal on its
+website for 30 days to allow time for public comment.
+
+Kristi Putnam
+Secretary, Arkansas Department of Human Services

@@ -1,0 +1,60 @@
+# fl-snap-foodRestrictionWaiverMod.pdf
+
+**Source:** https://www.fns.usda.gov/sites/default/files/resource-files/fl-snap-foodRestrictionWaiverMod.pdf
+
+---
+
+December 12, 2025
+
+Taylor N. Hatch
+Secretary
+Florida Department of Children and Families
+2415 North Monroe, Suite 400
+Tallahassee, Florida 32303-4190
+
+Re: SNAP Food Restriction Demonstration Waiver Modification Request
+
+Dear Secretary Hatch:
+
+On December 11, 2025, the Florida Department of Children and Families requested to modify
+the State agency’s Supplemental Nutrition Assistance Program (SNAP) Food Restriction Waiver
+implementation date from January 1, 2026, to April 20, 2026.
+
+The Food and Nutrition Service (FNS) approves this modification request. As expressed in the
+State agency’s request letter, this modification is intended to provide necessary additional time to
+prepare for implementation. Postponing implementation to April 20, 2026, will prevent
+inconsistent implementation amongst retailers and provide a stronger foundation for success.
+
+This approval is for 2 years, from April 20, 2026, through April 19, 2028. FNS provides an
+adjusted project reporting schedule in the enclosure. All other terms and conditions of FNS's
+August 4, 2025, approval remain applicable.
+
+FNS applauds Florida and its SNAP team for the significant efforts you have made towards
+implementation of your SNAP Food Restriction Waiver thus far. We look forward to continuing
+to support your efforts to successfully implement this innovative and impactful project on April
+20, 2026.
+
+Patrick A. Penn
+Deputy Under Secretary
+Food, Nutrition, and Consumer Services
+U.S. Department of Agriculture
+
+Enclosure
+
+Food and Nutrition Service, Braddock Metro Center, 1320 Braddock Place, Alexandria, VA 22314
+
+USDA is an Equal Opportunity Provider, Employer, and Lender
+FLORIDA SNAP FOOD RESTRICTION WAIVER DEMONSTRATION
+
+PROJECT MODIFICATION TO REPORTING SCHEDULE
+
+Report Date Range Covered Due Date
+Year 1, Quarter 1 April 20, 2026- July 19, 2026 September 2, 2026
+Year 1, Quarter 2 July 20, 2026- October 18, 2026 December 2, 2026
+Year 1, Quarter 3 October 19, 2026- January 17, 2027 March 3, 2027
+Year 1, Quarter 4 January 18, 2027- April 18, 2027 June 2, 2027
+Year 2, Quarter 1 April 19, 2027- July 18, 2027 September 1, 2027
+Year 2, Quarter 2 July 19, 2027- October 17, 2027 December 1, 2027
+Year 2, Quarter 3 October 18, 2027- January 16, 2028 March 1, 2028
+Year 2, Quarter 4 January 17, 2028- April 16, 2028 May 31, 2028
+Extension Request Submitted by October 19, 2027

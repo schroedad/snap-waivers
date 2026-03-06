@@ -1,0 +1,33 @@
+# snap-retailernotice-foodrestrictionwaiver-idaho.pdf
+
+**Source:** https://www.fns.usda.gov/sites/default/files/resource-files/snap-retailernotice-foodrestrictionwaiver-idaho.pdf
+
+---
+
+**Beginning February 15, 2026, Idaho SNAP retailers cannot accept SNAP EBT payments for candy and soda.**
+
+“Candy” means a preparation of sugar, honey, or other natural or artificial sweeteners combined with chocolate,
+fruits, nuts or other ingredients or flavorings in the form of confections, bars, drops, or pieces. “Candy” shall not
+include any preparation containing flour and shall require no refrigeration.
+
+“Soda” is any non-alcoholic beverage that contains natural or artificial sweeteners. “Soda” does not include any
+beverages that contain milk or milk substitutes, that are greater than fifty percent (50%) vegetable juice or fruit juice
+by volume, and that require preparation before consumption, such as powders or concentrates.
+
+You will need to comply with these changes. **If you do not comply, FNS may withdraw your SNAP**
+
+**authorization, and you will no longer be able to accept SNAP EBT.**
+
+For more information on Idaho’s SNAP Food Restrictions, please visit the Idaho Department of Health and
+Welfare’ [SNAP Retailer webpage.](https://healthandwelfare.idaho.gov/providers/snap-candy-and-soda-restrictions/idaho-snap-retailer-information-page)
+
+If you have questions, please contact [SNAPWaiver@dhw.idaho.gov.](mailto:%20SNAPWaiver@dhw.idaho.gov)
+
+For a complete list of states implementing similar changes and to review the [Idaho SNAP Food Restricton](https://www.fns.usda.gov/snap/waivers/foodrestriction/idaho)
+[Waiver approval,](https://www.fns.usda.gov/snap/waivers/foodrestriction/idaho) visit USDA's [SNAP Food Restricton Waivers.](https://www.fns.usda.gov/snap/waivers/foodrestriction)
+
+## **Follow USDA and FNS on social media!**
+
+For more information visit USDA’s [SNAP Retailer Webpage.](https://www.fns.usda.gov/snap/retailer)
+
+USDA is an equal opportunity provider, employer, and lender.                                   January 2026

@@ -1,0 +1,414 @@
+# wy-snapfoodrestrictionwaiver-request.pdf
+
+**Source:** https://www.fns.usda.gov/sites/default/files/resource-files/wy-snapfoodrestrictionwaiver-request.pdf
+
+---
+
+**SNAP Food Restriction Demonstration Waiver Request Template**
+
+United States Department of Agriculture Food and Nutrition Service
+
+**SNAP FOOD RESTRICTION STATE DEMONSTRATION REQUEST**
+Section 17(b) of the Food and Nutrition Act of 2008, as amended (the Act), allows FNS to waive
+statutory requirements of the Act to conduct pilot projects designed to test program changes to
+increase the efficiency of the Supplemental Nutrition Assistance Program (SNAP) and improve
+the delivery of SNAP benefits to eligible households. The Act limits the provisions that may be
+waived. Projects may be approved for a period of 5 years and the Act requires that each project
+must include an evaluation component that demonstrates the effects of the project.
+
+This template intends to guide and assist States in submitting a SNAP Food Restriction
+Demonstration Project Request. States should follow the guided prompts and questions and offer
+any additional detail, if applicable, under each section to ensure a complete understanding of the
+State’s proposed project.
+
+States should review the impermissible projects prohibited by Section 17 (b)(1)(B)(iv) of the Act
+and additional restrictions on demonstration projects in the appendix below before requesting a
+SNAP Food Restriction demonstration project. Additionally, to facilitate the demonstration
+review process, FNS strongly suggests States inform their Regional Office to discuss the project
+and provide any necessary technical assistance prior to submission of a request. The FNS
+National Office SNAP Food Restriction demonstration pilot team is also open to join Regional or
+State Agency calls to provide technical assistance.
+
+SNAP Food Restriction demonstration projects are intended to test innovative ideas that develop
+and implement modernized programmatic systems, infuse SNAP with new programmatic energy
+and vision, and strengthen State strategies to encourage healthy choices, healthy outcomes, and
+healthy families. FNS looks forward to working with States on potential changes to program
+operations that align with the Secretary’s vision for nutrition assistance programs.
+
+FNS reserves the right to withdraw its waiver approval and terminate demonstration projects at
+any time if FNS determines that the project is inconsistent with SNAP goals to increase the
+efficiency of the program and to improve the delivery of SNAP benefits to raise levels of
+nutrition among low-income individuals. If the State is unable to provide the data required as
+part of the terms and conditions of waiver approval or if FNS determines that the project is
+associated with significant increases in payment errors or access concerns, **FNS may suspend or**
+**terminate the project at any time.**
+
+1 **|** Page
+
+**SNAP** **Food** **Restriction** **Demonstration** **Waiver** **Request** **Template**
+
+**Type** **of** **Request:** **SNAP** **FOOD** **RESTRICTION**
+**Date** **of** **Request:** 1/7/2026
+**State:** Wyoming
+**Region:** MPRO
+
+**Statutory** **Citations:**
+7 USC Ch. 51 §2012 (k) provides that SNAP recipients may purchase: (1) seeds and plants to
+produce food at home or (2) any food or food product for home consumption. The provision also
+bars SNAP recipients from purchasing alcoholic beverages, tobacco, and hot food products ready
+for immediate consumption.
+
+**Regulatory** **Citations:**
+7 CFR 271.2 “Eligible foods” defines purchases recipients may make with SNAP benefits
+aligned with the statutory citation.
+
+**Summary** **of** **Food** **Restriction** **Demonstration** **Project** **Request:**
+As outlined in 7 CFR 271.1(a), the purpose of SNAP is to promote general welfare and to
+safeguard the health and well-being of the Nation’s population by raising the levels of nutrition
+among low-income households. To promote this purpose, the Wyoming Department of Family
+Services (Agency) is requesting a waiver to exclude ‘sweetened, carbonated beverages’ and
+'candy' from the definition of “food” and “eligible food” under the Supplemental Nutrition
+Assistance Program (SNAP).
+
+The Agency employed a novel, stakeholder-driven approach prior to submitting this waiver. A
+survey was developed to gather input on which items should be restricted; how restricted items
+should be defined; potential measures of success; and anticipated impacts of the proposed pilot.
+The survey was distributed through social media, the Agency’s website, and partner
+organizations. In addition, the Agency hosted two public town hall meetings to collect further
+feedback, posing the same questions included in the survey. Beyond the public forums, the
+Agency also met with key stakeholders, including Associated Food Stores, the Wyoming
+Beverage Association, and Cent$ible Nutrition (SNAP-Ed). The Agency also consulted with
+neighboring states and conducted a thorough review and analysis of other states’ food restriction
+waivers.
+
+Efforts were made to ensure that affected households and stakeholders were provided meaningful
+opportunities to share input. The Agency’s final determinations regarding the items proposed for
+restriction and their definitions were informed by survey responses, town hall discussions,
+stakeholder engagement, analysis of other states’ experiences, and extensive internal analysis
+and planning, with a continued commitment to supporting low-income households in achieving a
+more nutritious diet.
+
+Based on the above feedback, in addition to extensive internal analysis and planning, the Agency
+plans to implement the waiver using a phased approach. ‘Sweetened, carbonated beverages’ will
+be excluded during the first year of implementation, followed by ‘candy’ in the second year.
+
+2 **|** Page
+
+**SNAP** **Food** **Restriction** **Demonstration** **Waiver** **Request** **Template**
+
+Stakeholder feedback consistently emphasized the importance of simplicity. This phased strategy
+addresses that need by allowing for a straightforward initial rollout while providing time to learn
+from other states’ experiences and to adopt definitions and processes that are effective, efficient,
+and easy for both clients and retailers to understand and follow.
+
+The Agency seeks approval of this waiver with the goal of reducing the purchase of nonnutritive
+beverages and candy items, thereby supporting improved public health outcomes, reducing
+long-term healthcare costs, and aligning the program more closely with its purpose of
+strengthening food security through access to nutritious foods.
+
+**Proposed** **Alternative** **Procedures** **to** **Operate** **Project:**
+The Agency is requesting a waiver to exclude 'sweetened, carbonated beverages' and 'candy'
+from the definition of “food” and “eligible food” under SNAP.
+
+**Definition** **of** **'sweetened,** **carbonated** **beverages'**
+
+'Sweetened, carbonated beverages' means any nonalcoholic beverage that is made with
+carbonated water and is flavored and sweetened with sugar or artificial sweeteners. This
+definition does not include a beverage that contains milk, milk products, soy, rice, or other milk
+substitutes, or that is greater than 50% vegetable or fruit juice by volume.
+
+**Definition** **of** **'candy'**
+
+The Agency will submit a waiver modification no later than April 1, 2027, to establish a formal
+definition of ‘candy’. As noted in the Summary on page 2, the phased approach was intentionally
+selected based on stakeholder feedback and is designed to provide the Agency with sufficient
+time to learn from other states’ experiences and to adopt definitions and processes that are
+effective, efficient, and easy for both clients and retailers to understand and follow. The Agency
+will closely monitor how definitions adopted by other states function in practice and will use
+lessons learned and emerging best practices to inform its decision. Particular attention will be
+given to approaches used by neighboring states to promote consistency, ease of implementation
+for retailers, and reduced confusion at the point of sale. The Agency is actively tracking other
+states’ implementation efforts and collaborating with peer states to gain insight and share
+information.
+
+The Agency’s proposed alternative procedure makes no changes to the provisions that allow
+certain populations of SNAP recipients to purchase prepared meals from appropriate facilities
+like senior centers, domestic violence centers, substance misuse centers, and homeless shelters,
+or to universally banned products.
+
+**SNAP-Eligible** **Household** **Considerations:**
+This waiver will affect 100% of households receiving SNAP in Wyoming.
+
+3 **|** Page
+
+**SNAP** **Food** **Restriction** **Demonstration** **Waiver** **Request** **Template**
+
+**SNAP-Authorized** **Retailers** **Considerations:**
+This waiver will impact all SNAP retailers in Wyoming; all SNAP retailers within the bounds of
+Wyoming will participate. As of November 2025, Wyoming has 389 active SNAP retailers.
+Upon approval, the Agency will begin working with all SNAP retailers to provide additional
+information about the definitions of ‘sweetened, carbonated beverages’ that will need to be
+excluded, system updates that will need to be made, and communications to ensure consistent
+information is shared across the state. Retailer point-of-sale (POS) machines will be programmed
+to exclude these ineligible foods from purchase with SNAP benefits. All SNAP retailers in
+Wyoming will be required to be in compliance by February 1, 2027.
+
+Since the United States Department of Agriculture Food and Nutrition Service (USDA FNS)
+enrolls and regulates retailers as it administers the SNAP program, it will need to communicate
+new requirements to new retailers. The Agency will work to educate existing retailers about
+which items may be purchased with SNAP. Retailers that fail to make the necessary changes
+within the required time frame may be referred to USDA FNS for compliance action or
+reconsideration of SNAP authorization status in the state.
+
+The Agency actively engaged with different retailer groups, representing retailers that include
+both independent grocers and convenience stores across the state. The Agency plans to continue
+these conversations and expand them into communications with all retailer types well before the
+implementation date to ensure all retailers have the information and tools necessary to be in
+compliance. Through these conversations, it has been made apparent that retailers are in need of
+education for their staff as well as for any SNAP recipient, including out-of-state SNAP
+travelers, to ensure that there is clear understanding of the Agency’s specific restrictions and
+what other healthy and nutritious options are available for purchase.
+
+**Impacts** **to** **the** **State** **Agency:**
+Due to the Agency’s limited ability to independently enforce certain aspects of this pilot without
+USDA FNS assistance, the primary impacts to the Agency will be staff time and resources
+required to implement and monitor the pilot project, evaluate the effectiveness of the waiver, and
+maintain ongoing engagement with both SNAP participants and retailers throughout the duration
+of the pilot. Additional fiscal impacts are anticipated for the development of marketing and
+communication materials and for evaluation activities. These represent the currently known costs
+associated with implementation; however, additional expenses may arise as the pilot progresses
+and operational needs are further identified. Given Wyoming’s small workforce, potential
+staffing impacts will remain an important consideration as the pilot moves forward.
+
+The Agency does not foresee any IT-related changes or any changes to our eligibility system in
+order to implement this waiver. The Agency does anticipate an increase in call volume,
+stakeholder and media inquiries and social media and public awareness efforts as well as
+communication and training materials.
+
+While the Agency doesn’t foresee any system or IT changes, the Agency recognizes that the
+retailers will have an increase of cost to update their point-of-sale systems and technology as
+well as training staff. The Agency is committed to working with all SNAP retailers to ensure that
+
+4 **|** Page
+
+**SNAP** **Food** **Restriction** **Demonstration** **Waiver** **Request** **Template**
+
+this transition is as cost-effective as possible. The Agency will continue to monitor the
+participation of the retailers in Wyoming as this pilot progresses.
+
+**Communication** **Plan:**
+The Agency has already started to implement several communication methods with both
+participants and retailers alike, as mentioned above. The Agency will continue to work on a
+formalized communication plan and submit this to USDA FNS upon completion. This plan will
+not only include the Agency’s outlined timeframe for all communication projects for retailers
+and participants, but will also include plans for communication with any partnering agencies (i.e.
+SNAP-Ed, Wyoming Department of Health).
+
+The Agency plans to have a robust portion of the Agency's website dedicated to communication
+for all affected parties. The timeframe for this to be active will be included in the submitted
+communication plan and will remain updated throughout the entirety of the project.
+
+The Agency will also ensure that all internal staff are educated and trained on all aspects and
+impacts of this waiver.
+
+**Timeline:**
+The Agency plans to implement the restriction on ‘sweetened, carbonated beverages’ effective
+February 1, 2027. The Agency will submit a waiver modification no later than April 1, 2027, to
+establish a definition of ‘candy’, with implementation of the candy restriction planned no later
+than February 1, 2028.
+
+All additional plans submitted to USDA FNS (retailer communication, SNAP participant
+communication, evaluation, and monitoring and compliance) will each include their respective
+timelines. These plans will be submitted to USDA FNS upon completion of all plans.
+
+**Justification** **for** **Request:**
+The Agency is committed to helping low-income households achieve a more nutritious diet, in
+line with USDA FNS SNAP’s core goal. Given the significant and concerning rise in adult
+obesity within the state—a steady trend since the early 1990s [1] —it is a priority for the Agency to
+assist SNAP eligible households in purchasing food with genuine nutritional value. Addressing
+this public health issue is in the best interest of all Wyoming residents.
+
+The Agency aims to improve public health, lower long-term healthcare expenses, and better
+align the SNAP program with its core goal of boosting food security through access to nutritious
+food. This will be achieved by restricting the purchase of nonnutritive items with SNAP benefits.
+This pilot will be a way to show the Agency's commitment to align with the increased focus,
+both locally and federally, for all Wyomingites' health. As this is a demonstration waiver, the
+Agency is taking the first steps in being a solution to the long-term problem.
+
+1 [https://www.americashealthrankings.org/explore/measures/obesity/WY#measure-trend-summary](https://www.americashealthrankings.org/explore/measures/obesity/WY#measure-trend-summary)
+
+5 **|** Page
+
+**SNAP Food Restriction Demonstration Waiver Request Template**
+
+**Proposed Evaluation Procedures:**
+
+The Agency will begin developing the evaluation plan upon USDA FNS approval and will be
+completed by the February 1, 2027 implementation deadline.
+
+**Anticipated Implementation Date:**
+As described above, the Agency has planned two separate implementation dates to ensure the
+Agency conducts appropriate due diligence and provides SNAP participants and retailers with
+advance notice and sufficient time to adjust to these significant changes and to accommodate
+retail capacity to implement changes. Accordingly, the Agency plans to implement the restriction
+on ‘sweetened, carbonated beverages’ effective February 1, 2027 after the holiday season. The
+Agency will submit a waiver modification no later than April 1, 2027, to establish a definition of
+‘candy’, with implementation of the candy restriction planned for February 1, 2028.
+
+**Anticipated Program Costs:**
+
+Anticipated costs include expenses associated with the planning, implementation, and ongoing
+management of the waiver. To appropriately implement and monitor the waiver, the Agency will
+require:
+
+ - Staffing support, including a program manager and contracted key personnel such as an
+outreach manager, evaluator, and dietitian;
+
+ - Development and distribution of vendor and client communication and/or training
+materials;
+
+ - Resources to support retailer coordination, point-of-sale system updates, and product
+classification work; and
+
+ - Costs associated with data collection, evaluation activities, required reporting to USDA,
+and other operational needs necessary to ensure the waiver is implemented accurately,
+consistently, and with minimal burden on both clients and retailers.
+
+The estimated annual cost is approximately $600,000. The Agency recognizes that additional,
+currently unidentified costs may emerge as planning and implementation progress.
+
+**Anticipated Expiration Date:**
+The Agency is requesting an expiration date of 1/31/2030.
+
+**Signature of Requesting Official:**
+
+**State Contact:**
+
+Name: Morgan McCullough
+[Email: morgan.mccullough@wyo.gov](mailto:morgan.mccullough@wyo.gov)
+Telephone:307-473-3948
+
+6 **|** Page
+
+**SNAP** **Food** **Restriction** **Demonstration** **Waiver** **Request** **Template**
+
+**Regional** **Office** **Contact:**
+Name:
+Email:
+Telephone:
+
+7 **|** Page
+
+**SNAP** **Food** **Restriction** **Demonstration** **Waiver** **Request** **Template**
+
+**Appendix**
+
+**Impermissible** **Projects**
+Section 17(b)(1)(B)(iv) of the Act explicitly prohibits waivers of certain provisions of the Act.
+FNS is unable to approve projects that involve a waiver of these provisions.
+
+**Impermissible** **eligibility** **criteria** **waivers**
+Food Restriction demonstration projects may not:
+
+ - Change the definition of household for those living in Federally subsidized housing for
+older adults, group living arrangements, domestic violence shelters, homeless shelters,
+and drug and alcohol treatment centers), institutions, or boarding houses (Sec. 3(m)(4)
+and (5));
+
+ - Change the gross income standards of eligibility for households that do not have an
+elderly or disabled member to a level other than 130 percent of the Federal Poverty Level
+(Sec. 5(c)(2));
+
+ - Change the work requirements exemption for parents or household members caring for
+with dependent children under the age of 6 or caring for an incapacitated person (Sec.
+6(d)(2)(B));
+
+ - Increase the shelter deduction for households with low or no out-of-pocket housing costs;
+or
+
+ - Deny benefits to an otherwise eligible individual or household (last sentence of Sec.
+5(a)).
+
+**Impermissible** **State** **operations** **waivers**
+Food Restriction demonstration projects may not:
+
+ - Waive the requirements (Sec. 11(e)(2)(B)) for States to:
+
+     - Provide timely, accurate and fair service to SNAP applicants and participants;
+
+     - Develop a SNAP application; and if the State has a website, make the application
+available on their website in every language a printed application is available;
+
+     - Allow a household to apply on the same day they first contact a SNAP office
+during office hours;
+
+     - Consider an application with only name, address, and signature to be filed on the
+date of application;
+
+     - Require an adult representative to certify that the information on the application is
+true and that all members are citizens or eligible aliens;
+
+     - Provide a method of certifying and issuing benefits to homeless households; or
+
+     - Determine applicant eligibility within 30 days of the date of the filing of an
+application (time standard in Sec. 11(e)(3)).
+
+ - Change the provisions outlining which parts of the Act are not allowed to be waived;
+
+ - Absolve a State from acting with reasonable promptness on substantial reported changes
+in income or household size;
+
+ - Prohibit States from operating a Workfare Program or change the 50/50 matching
+provisions for workfare activities, including reimbursements for participants in workfare
+activities;
+
+8 **|** Page
+
+**SNAP** **Food** **Restriction** **Demonstration** **Waiver** **Request** **Template**
+
+ - Waive provisions of the Simplified SNAP (an optional program for TANF households);
+
+ - Waive the State Option to issue benefits to individuals who are not compliant with the
+work requirements established by welfare reform. If the State issues benefits to these
+individuals, they must pay the Federal Government back and will not receive Federal
+match for those recipients.
+
+ - Change the 50/50 Federal reimbursement provisions;
+
+ - Change QC system requirements, payment error rate, and associated liability process for
+payment error rates; or
+
+ - Change 50/50 Federal reimbursement provisions for eligibility systems.
+
+FNS is available to answer questions and provide technical assistance to States requesting
+demonstration projects. If you are unsure whether your State’s request would require an
+impermissible waiver, please contact FNS.
+
+**Additional** **Restrictions** **on** **Demonstration** **Projects**
+
+- Demonstration projects may be approved for up to five years with extensions possible
+thereafter.
+
+- If a demonstration project reduces benefits by more than 20 percent for more than 5
+percent of households in the project area (excluding households whose benefits are
+reduced for failure to comply with work requirements), the demonstration project:
+
+   - cannot affect more than 15% of households in the State AND
+
+   - may not continue for more than 5 years unless the Secretary approves an
+extension request.
+
+- Demonstration projects **may** **not** :
+
+    - Provide benefits in the form of cash or a manner otherwise non-restricted to food
+(except for a project approved before August 22, 1996);
+
+    - Allow SNAP funds to be used to fund other public assistance programs, or use the
+funds for any purpose other than the purchase of food, program administration, or
+employment and training activities; or
+
+    - Count SNAP benefits as income or resources for tax purposes, welfare, public
+assistance programs or any other Federal, State, or local assistance program (Sec.
+8(b)).
+
+9 **|** Page
